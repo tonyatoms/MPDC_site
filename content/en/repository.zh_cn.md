@@ -9,6 +9,7 @@ menu:
 ---
 
 # Bylaws
+法律文件只有英文版。
 
 * Currently in Effect
   * [v1.2, May 2, 2018](/documents/BYLAWS_OF_MPDC.docx.pdf)  

@@ -102,6 +102,7 @@ identifier = "about"
 url = "/about/"
 
 
+
 [languages.zh_cn]
 LanguageName = "中文"
 title =  "McKinley Park 发展理事会"
@@ -120,6 +121,7 @@ weight = 3
  parent = "news"
  url = "/zh_cn/blog/"
 
+
 [[languages.zh_cn.menu.main]]
  name = "日历（英文)"
  weight = 60
@@ -127,7 +129,7 @@ weight = 3
  url = "https://mckinleypark.news/events/"
 
 [[languages.zh_cn.menu.main]]
-name = "About Us"
+name = "关于"
 weight = 40
 identifier = "about"
 url = "/about/"
