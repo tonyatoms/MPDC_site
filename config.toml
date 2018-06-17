@@ -61,6 +61,13 @@ description = """
  identifier = "about"
  url = "/about/"
 
+ [[languages.en.menu.main]]
+ name = "Board of Directors"
+ weight = 40
+ parent = "about"
+ identifier = "board"
+ url = "/board/"
+
 # moved to [content dir]/[folder]/_index[lang].md
 # [[languages.en.menu.main]]
 # name = "Social Media"
