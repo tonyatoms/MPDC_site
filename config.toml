@@ -1,4 +1,4 @@
-baseurl = "http://test.mckinleyparkdevelopmentcouncil.org/"
+baseurl = "https://mckinleyparkdevelopmentcouncil.org/"
 languageCode= "en-us"
 
 contentDir = "content/en"
@@ -14,7 +14,8 @@ timezone = "America/Chicago"
 
 # Default page top graphic if not set in page front matter. This is an integer representing the base filename.
 # See the JPEG files below /static/images.
-top_graphic = 5
+top_graphic = 1
+
 
 github_username = ""
 twitter_username = ""
@@ -63,7 +64,7 @@ description = """
 
  [[languages.en.menu.main]]
  name = "Board of Directors"
- weight = 40
+ weight = 44
  parent = "about"
  identifier = "board"
  url = "/board/"
@@ -108,8 +109,6 @@ weight = 40
 identifier = "about"
 url = "/about/"
 
-
-
 [languages.zh_cn]
 LanguageName = "中文"
 title =  "McKinley Park 发展理事会"
@@ -128,7 +127,6 @@ weight = 3
  parent = "news"
  url = "/zh_cn/blog/"
 
-
 [[languages.zh_cn.menu.main]]
  name = "日历（英文)"
  weight = 60
@@ -140,6 +138,13 @@ name = "关于"
 weight = 40
 identifier = "about"
 url = "/about/"
+
+ [[languages.zh_cn.menu.main]]
+ name = "董事会"
+ weight = 44
+ parent = "about"
+ identifier = "board"
+ url = "/board/"
 
 [[languages.zh_cn.menu.main]]
  name = "社区日历"

@@ -2,7 +2,7 @@
 title: About the MPDC
 linkTitle: About the MPDC
 slug: about
-top_graphic: 1
+top_graphic: 4
 menu:
   main:
     weight: 10

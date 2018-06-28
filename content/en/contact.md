@@ -1,7 +1,7 @@
 ---
 title: Contact
 slug: contact
-top_graphic: 1
+top_graphic: 4
 menu:
   main:
     weight: 80

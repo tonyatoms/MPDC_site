@@ -9,6 +9,7 @@ menu:
 ---
 
 # Bylaws
+The legal documents are only available in english.
 
 * Currently in Effect
   * [v1.2, May 2, 2018](/documents/BYLAWS_OF_MPDC.docx.pdf)  

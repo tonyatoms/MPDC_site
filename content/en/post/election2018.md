@@ -16,7 +16,7 @@ Greetings McKinley Park Development Council Members,
 
 I just wanted to follow up and remind you all about the upcoming board elections and that nominations are due by our next meeting, June 20th. 
 
-Outr board can consist of 8 to 12 members, so we are looking to add between 2 and 6 people to join the board. This is an average board size for a not for profit and would continue to allow the board members to focus their efforts and resources on specific projects that are being proposed by our very active and ambitious committees without being stretched too thin. 
+Our board can consist of 8 to 12 members, so we are looking to add between 2 and 6 people to join the board. This is an average board size for a not for profit and would continue to allow the board members to focus their efforts and resources on specific projects that are being proposed by our very active and ambitious committees without being stretched too thin. 
 
 As a reminder, to be a board member there are specific requirements that need to be met in order to be considered eligible.
 
