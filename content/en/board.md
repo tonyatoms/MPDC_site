@@ -6,6 +6,47 @@ top_graphic: 1
 
 See [this information about the upcoming Board Elections.]({{< ref "post/election2018.md" >}})
 
+# New Board Member Nominees
+## Anabel Abarca
+
+As a life-long resident of Chicago, I have always aimed to participate in my community. This started at a young age when I joined my high school's Local School Council as their Student Representative. Throughout college and my professional life, I have maintained my commitment to actively working to better my community in a variety of ways. In 2013, I was chosen to be an Executive Board Member of Latinos Progresando, a non-profit, where I worked with the board to secure a building bought from the City of Chicago. In my experience as Chief of Staff to Alderman George Cardenas, I worked with numerous community groups, non-profits, and other organizations to navigate city, state, and federal regulations. In short, I love working with people to help them get the things they need be it grant funding, trees planted, or connecting them with others. My skill set includes organizing large (400+ guests) events, maintaining legal and financial records, and fundraising. I learned how to fund raise as part of both my participation in the Illinois Women's Institute for Leadership and Latinos Progresando.
+
+I believe my connections with city departments is one of my most valuable assets. However, what I believe sets me apart is my sincere belief that each of us is responsible for ensuring that a community works for everyone. It is up to each of us to make our community what we would like it to be, to listen to others, and to help ourselves. When it came time to work for the Alderman, I chose to move to McKinley Park immediately instead of commuting because I knew that a Chief of Staff who lived in the ward would be better than a distant employee. Less than two years later, I bought my home in the heart of McKinley Park where I now live with my partner, Sam, and where we support local organizations. While my first year of law school limited my participation a bit, I still volunteer when I can including through my school, Loyola. My second year schedule is much more flexible and no classes interfere with the MPDC monthly meeting. 
+
+Finally, my participation is on behalf of myself. I grew to love McKinley Park because of my work but decided to make it my home once I saw what a vibrant place it is. I am invested in many ways.
+
+In short, I believe I am a qualified candidate for the MPDC because of my previous board experience, my experience with the City of Chicago, and my current professional track of becoming a lawyer.
+
+## Dan Covarrubias
+
+Dan is a licensed Managing Broker in the State of Illinois and he has worked as a realtor in the Chicagoland area since 1994. Currently he is sponsored by Amerimax Real Estate Partners, Chicago, Illinois.
+
+Dan has worked for numerous local and national real estate firms. He was founding partner of First Capital Realtors which operated from 1999 through 2003, and he was a partner at ReMax First Choice managing 56 agents from 1996 through 1998. During 1996 through 2003, Dan recruited, trained and coached realtors and staff. He also personally managed the rehabilitation and renovation of numerous properties to help revitalize communities, and
+he has managed up to 40 units for a private investor which included multiple two and four unit buildings in Chicago. For the past 20 years, Dan has negotiated and closed hundreds of commercial and
+residential real estate and mortgage sales, earning him a reputation for integrity, trust and passion to help others – the primary reasons why his repeat clients and clients who
+strongly support him through referrals. Dan Covarrubias has experience in selling almost every property type since his entrance into the real estate field in 1994. Dan Covarrubias is experienced in negotiated transactions, accelerated sales programs
+including sealed bid offerings as well as public auction sales.
+
+## Mario Diaz
+My name is Mario Diaz and I life long resident of McKinley Park (42 years).  I grew up on 36th and Paulina and attended Greene Elementary  on 35th and Paulina.  My class was the last graduating class before Greene School merged with Everett to form Evergreen middle school in 1990.   
+
+After Greene I attended DeLaSalle high school and then UIC, where I majored in Criminal Justice and Psychology.  Shortly after graduation I started working at Robert Morris College.  A few years after graduation I was able to buy a small two flat on 36th and Hermitage, where I remain today.  I've stayed in Higher Education, working at Harold Washington College and currently at Malcolm X College where I serve as the Associate Dean of Student Services.   During my tenure at City Colleges of Chicago I have earned a Masters from Loyola University and am currently working on a PhD from Illinois State  University.  
+
+Why I want to serve on MPDC?  That's easy.  I love this neighborhood, my entire family is in McKinley Park... and I want to participate in any organization that works to "foster economic, cultural, and social development..".   
+
+I have very fond memories of my childhood in McKinley Park.  I spent many summer days riding bikes with friends to McKinley Park in the 80's to splash around in the pool, play soccer and baseball all summer and football and snowball fights in winter.  I remember walking up and down 35th Street after school, stopping by Nickys for fries, Jeffs for Pizza, the Bakery for pastries, the several candy/ice cream shops in the neighborhood. It saddens me that a once thriving business corridor that was 35th Street is now an avenue lined with vacant store fronts.   
+
+I want this neighborhood to be a place where businesses can come back, thrive and be a safe space where members of the community can come and socialize.  I've never understood why the few businesses that have opened up shop along 35th street have failed, but I'd like like to find out why, address these barriers and then help provide resources and support to future businesses so that they can succeed.  
+In addition to my strong desire to support local businesses, I would love to participate in programming that fosters cultural and social development.  I have 4 children under 8 years old.  My girls are not living the childhood I did.  I want them to know their community, know their neighbors and be able to ride their bikes to the park and back, down 35th street with friends for pizza, or french fries.  I know  that if we have a strong organization in the MPDC, we can expose our children to some of these experiences we had as kids, where they have opportunities to shop and play in their community and build fond memories of McKinley Park just like I did.  
+
+## Liz Gres
+ I've got board and non-profit experience. I've done it all from grant-writing to strategic planning to meeting facilitation, etc. etc. More importantly, I'm a native southwest-sider, the kid of immigrants and now raising a couple kids of my own in the neighborhood. I can't say enough about how much I love the community in McKinley Park and the active work so many people are doing to foster and invite that. I think it's a pretty special thing though it can be pretty fragile when you're talking about a community that isn't as resourced or listened to as other neighborhoods given our racial and economic make-up as well as small size - especially as we begin to get mentioned as the next "hot" area. I think the MPDC can serve as an organization that really helps to hold up the voice and priorities of all of the neighborhood not just of those whose voice is loudest or who have the most access, time, resources, etc. There are certainly challenges in order to effectively do that as an organization but I think the MPDC can serve in that role and I would love to contribute to making that happen.
+
+
+## Jonathan Lazatin
+
+As a new member to the McKinley Park community, I am excited to become deeply involved with the neighborhood's growth and development. I am a former engineer that has decided to use my background and experience to teach high school science and engineering and it is important for me to live and learn within the neighborhood in which I teach. I am a founding board member of Prismatic, a nonprofit that provides educational opportunities in Chicago schools and community spaces that expose low-income junior high and high school students to career and entrepreneurship opportunities in the arts. My mission for joining the McKinley Park Development Council as a board member is to ensure that the community grows in ways that support and empower our neighborhood's youth and their families to become good stewards of the community, the city, and the world. I also bring in skills from former work experiences that include photography, videography, communications, social media strategy, proposal writing and design. 
+
 
 # Current (Founding) Board Members
 
@@ -13,7 +54,7 @@ See [this information about the upcoming Board Elections.]({{< ref "post/electio
 
 This year I've been busy as part of the leadership team of the McKinley Park Community Garden as we've relocated to the new site in McKinley Park. I am also one of MPDC founders - involved since before it existed as a named group. I'm a particpant in the McKinley Park Stewardship days (not just because of the doughnuts) , Ward cleanup events and a customer of the Farmer's Market. I consider it a huge blessing to be able to live here. 
 
-By trade I am a software developer and have been contributing those talents to the project by designing, maintaining and hosting this web site (using 100% free and open source tools).
+I've been a professional software developer for nearly 20 years, currently at the awesome [Yaro](https://goyaro.com). I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools.
 
 ## John Belcik
 

@@ -13,7 +13,7 @@ See [this information about the upcoming Board Elections.]({{< ref "post/electio
 
 今年，我一直忙于麦金利公园社区花园领导团队的工作，因为我们已经搬迁到麦金利公园的新址。 我也是MPDC创始人之一 - 自从它作为一个命名组成员存在之前就参与其中。 我是McKinley Park Stewardship时代的一员（不仅仅是因为甜甜圈），沃德清理活动和Farmer's Market的客户。 我认为能够住在这里是一个巨大的祝福。
 
-通过交易，我是一名软件开发人员，并通过设计，维护和托管本网站（使用100％免费和开源工具）为项目贡献了这些人才。
+我已经成为一名专业软件开发人员已有近20年的历史，目前正处于令人敬畏的[Yaro]（https://goyaro.com）。 我通过使用100％免费和开源工具设计，维护和托管这个网站，为MPDC贡献了这些人才。
 
 ## John Belcik
 

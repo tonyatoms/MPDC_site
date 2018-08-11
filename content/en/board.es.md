@@ -17,7 +17,7 @@ See [this information about the upcoming Board Elections.]({{< ref "post/electio
 
 Este año he estado ocupado como parte del equipo de liderazgo de McKinley Park Community Garden mientras nos trasladamos al nuevo sitio en McKinley Park. También soy uno de los fundadores de MPDC, involucrado desde antes de que existiera como un grupo nombrado. Participo en los días de McKinley Park Stewardship (no solo por las donas), eventos de limpieza de Ward y un cliente del Farmer's Market. Considero una gran bendición poder vivir aquí.
 
-De comercio soy un desarrollador de software y he contribuido con esos talentos al proyecto diseñando, manteniendo y alojando este sitio web (utilizando herramientas 100% gratuitas y de código abierto).
+He sido un desarrollador de software profesional durante casi 20 años, actualmente en la increíble [Yaro] (https://goyaro.com). He aportado esos talentos al MPDC diseñando, manteniendo y alojando este sitio web utilizando herramientas 100% gratuitas y de código abierto.
 
 ## John Belcik
 
