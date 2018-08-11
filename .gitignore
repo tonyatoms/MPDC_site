@@ -6,3 +6,4 @@ Gemfile.lock
 public/
 nohup.out
 deploy
+test_deploy
