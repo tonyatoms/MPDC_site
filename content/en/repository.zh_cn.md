@@ -1,5 +1,5 @@
 ---
-title: Policy and Legal Repository
+title: 政策和法律库
 slug: repository
 top_graphic: 1
 menu:
@@ -8,16 +8,16 @@ menu:
     parent: about
 ---
 
-# Bylaws
-The legal documents are only available in english.
+# 按照法律规定
+法律文件只有英文版。
 
-* Currently in Effect
+* 目前正在实施
   * [v1.2, May 2, 2018](/documents/BYLAWS_OF_MPDC.docx.pdf)  
 
 
   
 
-* Historical / Informational
+* 历史/信息
   * [v1.0, April 15, 2018](/documents/OLD_BYLAWS_OF_MPDC_15April2018.pdf)
  
 

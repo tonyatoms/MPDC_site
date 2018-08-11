@@ -1,5 +1,5 @@
 ---
-title: Policy and Legal Repository
+title: Política y Repositorio Legal
 slug: repository
 top_graphic: 1
 menu:
@@ -8,16 +8,16 @@ menu:
     parent: about
 ---
 
-# Bylaws
-The legal documents are only available in english.
+# Estatutos
+Los documentos legales solo están disponibles en inglés.
 
-* Currently in Effect
+* Actualmente en efecto
   * [v1.2, May 2, 2018](/documents/BYLAWS_OF_MPDC.docx.pdf)  
 
 
   
 
-* Historical / Informational
+* Histórico / Informativo
   * [v1.0, April 15, 2018](/documents/OLD_BYLAWS_OF_MPDC_15April2018.pdf)
  
 
