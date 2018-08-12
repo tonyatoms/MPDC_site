@@ -11,6 +11,8 @@ title = "Elecciones y Nominaciones de la Junta!"
 type = "post"
 
 +++
+ACTUALIZACIÓN: julio de 2018: todos los nominados fueron elegidos en la reunión del 20 de junio de 2018. Felicitaciones a los nuevos miembros de la junta y ¡gracias a todos por votar!
+
 Saludos, miembros del Consejo de Desarrollo McKinley Park,
 
 Solo quería hacer un seguimiento y recordarles acerca de las próximas elecciones a la junta directiva y que las nominaciones vencen en nuestra próxima reunión, el 20 de junio.

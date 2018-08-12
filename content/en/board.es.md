@@ -11,7 +11,7 @@ menu:
 See [this information about the upcoming Board Elections.]({{< ref "post/election2018.md" >}})
 
 
-# Miembros actuales de la Junta (Fundadores)
+# Miembros de la Junta (Fundadores)
 
 ## Tony Adams
 

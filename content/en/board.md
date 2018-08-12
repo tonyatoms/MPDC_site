@@ -4,9 +4,9 @@ slug: board
 top_graphic: 1
 ---
 
-See [this information about the upcoming Board Elections.]({{< ref "post/election2018.md" >}})
+See [this information about the Board Elections.]({{< ref "post/election2018.md" >}})
 
-# New Board Member Nominees
+# New Board Members
 ## Anabel Abarca
 
 As a life-long resident of Chicago, I have always aimed to participate in my community. This started at a young age when I joined my high school's Local School Council as their Student Representative. Throughout college and my professional life, I have maintained my commitment to actively working to better my community in a variety of ways. In 2013, I was chosen to be an Executive Board Member of Latinos Progresando, a non-profit, where I worked with the board to secure a building bought from the City of Chicago. In my experience as Chief of Staff to Alderman George Cardenas, I worked with numerous community groups, non-profits, and other organizations to navigate city, state, and federal regulations. In short, I love working with people to help them get the things they need be it grant funding, trees planted, or connecting them with others. My skill set includes organizing large (400+ guests) events, maintaining legal and financial records, and fundraising. I learned how to fund raise as part of both my participation in the Illinois Women's Institute for Leadership and Latinos Progresando.
@@ -48,7 +48,7 @@ In addition to my strong desire to support local businesses, I would love to par
 As a new member to the McKinley Park community, I am excited to become deeply involved with the neighborhood's growth and development. I am a former engineer that has decided to use my background and experience to teach high school science and engineering and it is important for me to live and learn within the neighborhood in which I teach. I am a founding board member of Prismatic, a nonprofit that provides educational opportunities in Chicago schools and community spaces that expose low-income junior high and high school students to career and entrepreneurship opportunities in the arts. My mission for joining the McKinley Park Development Council as a board member is to ensure that the community grows in ways that support and empower our neighborhood's youth and their families to become good stewards of the community, the city, and the world. I also bring in skills from former work experiences that include photography, videography, communications, social media strategy, proposal writing and design. 
 
 
-# Current (Founding) Board Members
+# Founding Board Members
 
 ## Tony Adams
 

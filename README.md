@@ -18,4 +18,19 @@ And open <a href="http://localhost:1313/">http://localhost:1313/</a> in your
 browser. Note that the -F flag will show items to be published in the future
 (like blog posts with dates in the future).
 
+Here is a deploy script that makes deploying a site and then updates to a site a one command operation:
+
+```
+#!/bin/sh
+USER=[server user name]
+HOST=[server host name]
+DIR=[path to web root]   # can be be initially empty!
+
+hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+
+exit 0
+```
+
 Contributions welcome.
+
+

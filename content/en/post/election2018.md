@@ -11,6 +11,7 @@ title = "Board Elections and Nominations!"
 type = "post"
 
 +++
+UPDATE: July, 2018 - All the nominees were elected at the June 20, 2018 meeting. Congratulations to the new board members and thanks everyone for voting!
 
 Greetings McKinley Park Development Council Members,
 
