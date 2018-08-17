@@ -1,7 +1,7 @@
 McKinley Park Development Council
 =====================
 
-This is the repository for the [McKinley Park Development Council website](https://mckinleyparkdevelopmentcouncil.org/) website.
+This is the repository for the [McKinley Park Development Council website](https://mckinleyparkdevelopmentcouncil.org/).
 
 This version was initially forked from the Lets Encrypt website's code.
 
