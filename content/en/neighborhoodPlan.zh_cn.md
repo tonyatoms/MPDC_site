@@ -10,8 +10,15 @@ menu:
 
 
 
-## MPDC 获得[本地技术援助补助金] CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
+### 参加此在线社区调查
+我们邀请您分享您社区的优先事项 [通过在线调查] (https://mckinleypark.metroquest.com) 在那里，您将能够权衡麦金利公园的未来。 
 
+[![ mckinleypark community survey](/images/MetroQuestBegin.png)]
+(https://mckinleypark.metroquest.com)
+
+***
+## MPDC 获得[本地技术援助补助金] CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
+***
 ### 公开初步会议
 
 公众开幕会议定于2018年7月18日举行 National Latino Educational Institute, 2011 W Pershing Rd, Chicago, IL 60609

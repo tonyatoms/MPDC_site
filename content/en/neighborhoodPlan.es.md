@@ -8,9 +8,17 @@ menu:
     parent: about
 ---
 
+## Tome esta Encuesta de comunidad en línea
+Comparte tus prioridades para tu comunidad [tomando una encuesta en línea] (https://mckinleypark.metroquest.com) para evaluar el futuro de McKinley Park.
+
+[![ mckinleypark community survey](/images/MetroQuestBegin.png)]
+(https://mckinleypark.metroquest.com)
+
+***
 
 ## MPDC Gana una [Subvención de asistencia técnica local de CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
 
+***
 ### Reunión inicial pública
 
 La reunión pública de lanzamiento está programada para a July 18, 2018 en el National Latino Educational Institute, 2011 W Pershing Rd, Chicago, IL 60609

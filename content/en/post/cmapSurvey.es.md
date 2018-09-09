@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = ["News"]
-date = "2018-07-17"
+date = "2018-08-31"
 description = ""
 featured = ""
 featuredalt = ""
@@ -11,4 +11,7 @@ title = "Encuesta de planificación del barrio"
 type = "post"
 
 +++
-Te invitamos a compartir tus pensamientos y prioridades sobre McKinley Park en [esta encuesta en línea](https://mckinleypark.metroquest.com).
+Comparte tus prioridades para tu comunidad [tomando una encuesta en línea] (https://mckinleypark.metroquest.com) para evaluar el futuro de McKinley Park.
+
+[![ mckinleypark community survey](/images/MetroQuestBegin.png)]
+(https://mckinleypark.metroquest.com)
