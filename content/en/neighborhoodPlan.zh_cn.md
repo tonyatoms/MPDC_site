@@ -8,14 +8,6 @@ menu:
     parent: about
 ---
 
-
-
-### 参加此在线社区调查
-我们邀请您分享您社区的优先事项 [通过在线调查] (https://mckinleypark.metroquest.com) 在那里，您将能够权衡麦金利公园的未来。 
-
-[![ mckinleypark community survey](/images/MetroQuestBegin.png)]
-(https://mckinleypark.metroquest.com)
-
 ***
 ## MPDC 获得[本地技术援助补助金] CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
 ***

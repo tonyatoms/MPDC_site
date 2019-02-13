@@ -8,14 +8,6 @@ menu:
     parent: about
 ---
 
-
-## Take this Online Community Survey
-Share your priorities for your community [by taking an online survey] (https://mckinleypark.metroquest.com) where you will be able to weigh in on the future of McKinley Park. 
-
-[![ mckinleypark community survey](/images/MetroQuestBegin.png)]
-(https://mckinleypark.metroquest.com)
-
-
 ***
 ## MPDC Wins a [Local Technical Assistance Grant from CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
 
