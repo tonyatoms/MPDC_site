@@ -11,13 +11,14 @@ type = "post"
 
 +++
 
-Tenemos un calendario completo de oportunidades para que los vecinos de McKinley Park se conecten, aprendan y hagan que nuestra gran comunidad sea aún mejor. ¡Lo más destacado de esta primavera será el Taller de Visión del Plan Vecinal en mayo, organizado conjuntamente por [Chicago Metropolitan Agency for Planning](http://www.cmap.illinois.gov/), nuestros socios en el desarrollo de un plan para el vecindario de McKinley Park! Tan pronto como aseguremos un lugar para el taller de mayo, lo publicaremos aquí y en todos los lugares habituales.
+Tenemos un calendario completo de oportunidades para que los vecinos de McKinley Park se conecten, aprendan y hagan que nuestra gran comunidad sea aún mejor. ¡Lo más destacado de esta primavera será el Taller de Visión del Plan Vecinal en mayo, organizado conjuntamente por [Chicago Metropolitan Agency for Planning](http://www.cmap.illinois.gov/), nuestros socios en el desarrollo de un plan para el vecindario de McKinley Park! 
+La reunión se lleva a cabo en la National Latino Education Institute, 2011 W Pershing Rd
 
 Horario de primavera:
 
 - March 20  Razzmatazz, 3900 S Ashland
 - April 17 McKinley Park Field House, 2210 W Pershing Rd
-- May 15 Neighborhood Plan Visioning Workshop! Location TBD
+- May 15 Neighborhood Plan Visioning Workshop! National Latino Education Institute, 2011 W Pershing Rd
 - June 19 Bethany Church, 3532 S Hoyne
 
 Siguiente junta:

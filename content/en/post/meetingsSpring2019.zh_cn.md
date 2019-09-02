@@ -11,13 +11,15 @@ type = "post"
 
 +++
 
-我们为麦金利公园的邻居提供了一个完整的机会，让他们更好地联系，学习和建立我们伟大的社区。 今年春天的一个亮点将是5月份的邻里计划愿景研讨会，由CMAP共同主办，我们的合作伙伴为麦金利公园社区制定计划！ 由于我们预计会为此次活动投入大量资金，我们现在正在确保合适的地点。 一旦我们确定了五月工作室的位置，我们就会在这里以及所有常见的地方发布。
+我们为麦金利公园的邻居提供了一个完整的机会，让他们更好地联系，学习和建立我们伟大的社区。 今年春天的一个亮点将是5月份的邻里计划愿景研讨会，由CMAP共同主办，我们的合作伙伴为麦金利公园社区制定计划！ 由于我们预计会为此次活动投入大量资金，我们现在正在确保合适的地点。 
+
+会议正在进行中 National Latino Education Institute, 2011 W Pershing Rd
 
 春季时间表：
 
 - March 20  Razzmatazz, 3900 S Ashland
 - April 17 McKinley Park Field House, 2210 W Pershing Rd
-- May 15 Neighborhood Plan Visioning Workshop! Location TBD
+- May 15 Neighborhood Plan Visioning Workshop! National Latino Education Institute, 2011 W Pershing Rd
 - June 19 Bethany Church, 3532 S Hoyne
 
 下次会议：

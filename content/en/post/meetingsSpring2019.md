@@ -12,13 +12,15 @@ type = "post"
 +++
 
 We've got a full schedule of opportunities for McKinley Park neighbors to connect, learn and make our great community even better. A highlight of this spring will be the Neighborhood Plan Visioning Workshop in May, co-hosted by [Chicago Metropolitan Agency for Planning](http://www.cmap.illinois.gov/), our partners in developing a plan for the McKinley Park neighborhood!
-As soon as we secure a location for the May workshop we'll post it here and in all the usual places. 
+The meeting is happening at the National Latino Education Institute, 2011 W Pershing Rd
 
-Spring Schedule:
+会议正在进行中 National Latino Education Institute, 2011 W Pershing Rd
+
+Spring Schedule: 
 
 - March 20  Razzmatazz, 3900 S Ashland
 - April 17 McKinley Park Field House, 2210 W Pershing Rd
-- May 15 Neighborhood Plan Visioning Workshop! Location TBD
+- May 15 Neighborhood Plan Visioning Workshop! National Latino Education Institute, 2011 W Pershing Rd
 - June 19 Bethany Church, 3532 S Hoyne
 
 Next Meeting: 

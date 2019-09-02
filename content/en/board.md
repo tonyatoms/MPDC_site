@@ -4,9 +4,26 @@ slug: board
 top_graphic: 1
 ---
 
-See [this information about the Board Elections.]({{< ref "post/election2018.md" >}})
+See [this information about the Board Elections.]({{< ref "post/election2018.md" >}}) It is from 2018 but the procedure remains the same this year.
+# Prospective Board Members
+## Faye "Nikita" Wu
 
-# New Board Members
+My name is Faye Wu but many people know me as "Nikita". I am an active member of the school my son attends, Galileo, located in the 25th Ward where I help organize the annual fundraiser: Reach for the Stars. I have been an active member of the Chinese community for many years having been the MC of many ceremonies and galas and having worked at a prominent insurance agency. Today, I own my own business, the Faye Wu Agency of American Family Insurance located in the heart of Chinatown.
+
+But it is McKinley Park that I have called home since 2002 and where, together with my husband and two sons, we have decided to grow even deeper roots by building an addition to our home to better accommodate our future needs and it is here that I would welcome the opportunity to serve the needs of the residents and build a better McKinley Park.
+
+
+## Jim Hankes
+Born and raised in McKinley Park, moved out in the mid ‘80s, moved back in 2014. My parents still live in McKinley Park and have since they moved here from Bridgeport in the 1950’s.
+I’m currently a realtor with @properties with a specific focus on the McKinley Park neighborhood. It was great to see an article on Trulia.com recently that showed McKinley Park having the lowest neighborhood crime rate in Cook County. I have access to statistics and information about our neighborhood that others may not be aware of.
+Along with my wife, Vickie, we conceptualized, planned, self-funded, built and operated a meal assembly kitchen in Wheaton, IL. We had a staff of 22 part-time employees.
+Prior to starting the food business, I was Western Sales Manager in the trade publishing industry for 9 years, handling a 17-state territory from IL to CA.
+I recently signed up to be an Ambassador for the MP Dog Park!
+
+## Mary Carmen Moreno 
+Resident of McKinley Park since 2005, and lifelong Chicagoan. I’m a mother to a creative and soulful 10 yr. old, a Chicago Public School teacher on the Southside of Chicago, and co-owner of Cafe Jumping Bean in Chicago’s Pilsen neighborhood.  My family and I enjoy a good ballgame, support local businesses and community organizations.  We are avid gardeners, and enjoy visiting National Parks every year.  
+
+# Current Board Members
 ## Anabel Abarca
 
 As a life-long resident of Chicago, I have always aimed to participate in my community. This started at a young age when I joined my high school's Local School Council as their Student Representative. Throughout college and my professional life, I have maintained my commitment to actively working to better my community in a variety of ways. In 2013, I was chosen to be an Executive Board Member of Latinos Progresando, a non-profit, where I worked with the board to secure a building bought from the City of Chicago. In my experience as Chief of Staff to Alderman George Cardenas, I worked with numerous community groups, non-profits, and other organizations to navigate city, state, and federal regulations. In short, I love working with people to help them get the things they need be it grant funding, trees planted, or connecting them with others. My skill set includes organizing large (400+ guests) events, maintaining legal and financial records, and fundraising. I learned how to fund raise as part of both my participation in the Illinois Women's Institute for Leadership and Latinos Progresando.
@@ -43,7 +60,7 @@ In addition to my strong desire to support local businesses, I would love to par
  I've got board and non-profit experience. I've done it all from grant-writing to strategic planning to meeting facilitation, etc. etc. More importantly, I'm a native southwest-sider, the kid of immigrants and now raising a couple kids of my own in the neighborhood. I can't say enough about how much I love the community in McKinley Park and the active work so many people are doing to foster and invite that. I think it's a pretty special thing though it can be pretty fragile when you're talking about a community that isn't as resourced or listened to as other neighborhoods given our racial and economic make-up as well as small size - especially as we begin to get mentioned as the next "hot" area. I think the MPDC can serve as an organization that really helps to hold up the voice and priorities of all of the neighborhood not just of those whose voice is loudest or who have the most access, time, resources, etc. There are certainly challenges in order to effectively do that as an organization but I think the MPDC can serve in that role and I would love to contribute to making that happen.
 
 
-## Jonathan Lazatin
+## Jonathan Lazatin (stepping down in 2019 - moving out of state)
 
 As a new member to the McKinley Park community, I am excited to become deeply involved with the neighborhood's growth and development. I am a former engineer that has decided to use my background and experience to teach high school science and engineering and it is important for me to live and learn within the neighborhood in which I teach. I am a founding board member of Prismatic, a nonprofit that provides educational opportunities in Chicago schools and community spaces that expose low-income junior high and high school students to career and entrepreneurship opportunities in the arts. My mission for joining the McKinley Park Development Council as a board member is to ensure that the community grows in ways that support and empower our neighborhood's youth and their families to become good stewards of the community, the city, and the world. I also bring in skills from former work experiences that include photography, videography, communications, social media strategy, proposal writing and design. 
 
