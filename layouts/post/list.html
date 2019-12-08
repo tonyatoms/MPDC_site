@@ -4,7 +4,6 @@
     {{ $posts := where .Site.RegularPages "Type" "in" (slice "post") }}
     {{ range $posts }}
     <li>
-      <span class="post-meta">{{ .Date.Format $.Site.Params.time_format_default }}</span>
       <h2>
       <a class="post-link" href="{{ .Permalink }}">{{ .Title }}</a>
       </h2>
