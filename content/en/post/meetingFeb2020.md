@@ -12,7 +12,15 @@ title = "February Meeting 2020"
 type = "post"
 +++
 
-We are still ironing out our discussion topics but we hope you can join us for our February meeting at a new meeting location for us, Pochos! 
+We are excited about our upcoming meeting, this Wednesday (February 19) at 7pm. This month we will be meeting at one of our newest neighborhood gems, Pochos Restaurant, at 2025 W 35th Street.
+
+Pochos has generously offered to provide complimentary beverages, and several items off their new lunch menu will  be available for purchase. 
+
+We've asked them to talk about their vision for the restaurant, their journey to opening it, and the process and challenges involved with opening a restaurant. They'll also take our questions!
+
+This is a great chance to support a local  restaurant and get some of the behind the scenes dish on what it takes to open a restaurant in our neighborhood. 
+
+We'll  also be getting updates on our Chicago Metropolitan Agency for Planning neighborhood plan, the demolition of the Wrigley Building, and of course anything you all want to discuss. 
 
 </br>Wednesday, February 19, 2020 
 </br>7pm - 8:30pm. </br>

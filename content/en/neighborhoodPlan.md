@@ -65,18 +65,20 @@ Liliana	Escarpita	- Alderman Cardenas' Office
 
 Kensen	Lam	 - Park Community Church
 
-Jonathan Lazatin -	teacher in the neighborhood - new resident
-
 Mayra	Lopez-Zuniga - Representative Mah's Office
 
 Vernalynne de la Rosa -	Substance Abuse Prevention Program 
 
 Coordinator, Midwest Asian Health Association (MAHA)
 
-Marya	Spont-Lemus -	resident, artist, owner of local business
+Marya	Spont-Lemus - resident, artist, educator
 
 Beata	Skorusa	- business or land owner along 35th or near Archer
 
 Dawn	Thompson -	Center for Neighborhood Technology
 
-Javier	Yañez	- Commissioner Garcia's Office
+Javier	Yañez	- Alderman Sigcho-Lopez's Office
+
+Emeritus:
+
+Jonathan Lazatin -	former teacher in the neighborhood

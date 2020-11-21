@@ -8,12 +8,20 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Reunión de enero 2020"
+title = "Reunión de febrero 2020"
 type = "post"
 +++
 
 
-Todavía estamos resolviendo nuestros temas de discusión, ¡pero esperamos que pueda unirse a nosotros para nuestra reunión de febrero en un nuevo lugar de reunión, Pochos!
+Estamos entusiasmados con nuestra próxima reunión, este miércoles (19 de febrero) a las 7pm. Este mes nos reuniremos en una de nuestras gemas más nuevas del vecindario, el restaurante Pochos, en 2025 W 35th Street.
+
+Pochos se ha ofrecido generosamente para proporcionar bebidas de cortesía, y varios artículos de su nuevo menú de almuerzo estarán disponibles para su compra.
+
+Les hemos pedido que hablen sobre su visión del restaurante, su viaje para abrirlo y el proceso y los desafíos que implica abrir un restaurante. ¡También responderán nuestras preguntas!
+
+Esta es una gran oportunidad para apoyar a un restaurante local y obtener algunos de los platos detrás de escena de lo que se necesita para abrir un restaurante en nuestro vecindario.
+
+También recibiremos actualizaciones sobre nuestro plan de vecindario de la Agencia Metropolitana de Chicago para la Planificación del vecindario, la demolición del Edificio Wrigley y, por supuesto, cualquier cosa que todos quieran discutir.
 
 Miércoles 19 de febrero de 2020</br>
 7pm - 8:30 pm.
