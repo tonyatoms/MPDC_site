@@ -57,12 +57,6 @@ description = """
  identifier = "proposals"
  url = "/proposals/"
 
-[[languages.en.menu.main]]
- name = "Community Calendar"
- weight = 60
- parent = "news"
- url = "https://mckinleypark.news/events"
-
  [[languages.en.menu.main]]
  name = "About"
  weight = 40
@@ -110,13 +104,6 @@ weight = 2
  url = "/es/proposals/"
 
 [[languages.es.menu.main]]
- name = "Calendario de la comunidad"
- weight = 60
- identifier = "status"
- parent = "news"
- url = "https://mckinleypark.news/events/"
-
-[[languages.es.menu.main]]
 name = "Acerca de"
 weight = 40
 identifier = "about"
@@ -148,12 +135,6 @@ weight = 3
  url = "/zh_cn/proposals/"
 
 [[languages.zh_cn.menu.main]]
- name = "日历（英文)"
- weight = 60
- parent = "news"
- url = "https://mckinleypark.news/events/"
-
-[[languages.zh_cn.menu.main]]
 name = "关于"
 weight = 40
 identifier = "about"
@@ -165,13 +146,6 @@ url = "/about/"
  parent = "about"
  identifier = "board"
  url = "/board/"
-
-[[languages.zh_cn.menu.main]]
- name = "社区日历"
- weight = 60
- identifier = "status"
- parent = "about"
- url = "https://mckinleypark.news/events"
 
 # Be explicit about the output formats. We only want an RSS feed for the home page.
 [outputs]

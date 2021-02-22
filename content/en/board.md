@@ -3,7 +3,6 @@ title: MPDC Board of Directors
 slug: board
 top_graphic: 1
 ---
-# Prospective Board Membership Candidates
  
 ## Kate Eakin
 I'm interested in being a part of the McKinley Park Development Council because I am both encouraged and concerned by various interests moving into our neighborhood.  
@@ -20,16 +19,10 @@ Likewise, I don't want to see our safety threatened by development that would in
 
 All that said, it is entirely possible to have curated development that supports existing residents and builds on our neighborhood's strengths.  We can move forward on affordable housing.  We can work with businesses to bring opportunities for work and play commensurate with the skills and desires of our residents, without sacrificing the character and affordability of the neighborhood.  
 
-Shaping the future of our neighborhood in this way is something I very much want to be a part of.  Thank you for your consideration. 
-
-Sincerely, 
-Kate Eakin
-
+Shaping the future of our neighborhood in this way is something I very much want to be a part of.  
 
 ## John Kugler
 
-I am nominating myself (John Kugler) to be on the McKinley Park Development Council.
- 
 We have lived at 3701 S. Winchester for 23 years, consequently seeing and being part of many changes in our neighborhood. Husband of Emi Yamamoto, we raised 4 boys together who all attended Greene ES, Evergreen Middle ES and Juarez HS. Starting with Twinkle Star Gymnastics, our family participated in sports at McKinley Park Field House. I say this to validate my involvement in our neighborhood in everyday life needs and services, which also includes my civic service on the Greene ES LSC and Judge of Election in my Precinct. 
 
 The reason I would like to be involved with the council is my concern that unchecked development will disenfranchise middleclass families and push out mom and pop businesses.
@@ -50,29 +43,6 @@ Incubators for neighborhood entrepreurs
  
 Having experienced rampant gentrification in Lakeview and Bucktown, I feel if we don’t get ahead of the curve in McKinley Park, none of us will be living here 20 years from now.
 
-
-## Kevin O'Neil
-
-I would like to be considered as a board member for the McKinley Park Development Council.
-
-In March my wife and I bought a three-flat graystone on Western Blvd. south of 35th Street. We live there with our daughter and her fiancé, with some friends in another unit. We are currently finishing up some rehab. 
-
-I retired last year from my job as chief of staff for former 49th Ward Ald. Joe Moore. Prior to that I was working in marketing and communications for the American Medical Assn. for 29 years. 
-
-I also have been a volunteer community leader and organizer for many years. For 18 years I was a CAPS beat facilitator in Rogers Park. My efforts in conjunction with police and other stakeholders resulted in a sharp crime reduction in my neighborhood.
-
-Also, I served as board president for a non-profit community development organization - formerly called DevCorp North, now named Rogers Park Business Alliance. During that time the organization partnered with a private developer to build a much-needed shopping center with a supermarket in Rogers Park.
-
-I am well-versed in zoning laws. I served for 10 years as chairman of Ald. Moore’s zoning advisory committee. 
-
-I believe that both my professional and volunteer experience and accomplishments qualify me to join your board.
-
-I look forward to working with you and other board members to continue making McKinley Park a great place to live, work and raise a family. Thank you for the consideration.
-
-Sincerely,
-
-Kevin O'Neil
-
 ## Sandra Ramirez
 
 I am a resident of Mckinley Park and meet the requirements. I grew up in McKinley Park in the 90's and 2000's and recently returned to reside in the neighborhood in 2018. My immediate family also lives in the area, making it a very important and personal community to me. I have skills and experience that I would proudly share with this organization. I believe McKinley Park is a wonderful community with amazing potential and I am committed to helping MPDC continue its mission. 
@@ -81,28 +51,18 @@ Short Bio:
 Sandra Ramirez- Director of Development, Alivio Medical Center
 Ms. Ramirez is responsible for developing and executing strategies to meet Alivio Medical Centers’ objectives for grants, fundraising and communication.  In 2016, Sandra came to Alivio with over 18 years of managerial experience and demonstrated her skillset by taking the lead on complex projects in collaboration with the Executive Team. Sandra has effectively secured and maintained a government grants portfolio of $4.7 Million in the current fiscal year alone as well as $910,000 in private funding. Sandra has demonstrated leadership and true passion for Alivio’s mission. Ms. Ramirez has been engaged with community partners and organizations that serve Alivio’s service area and her beloved Southwest side neighborhoods. She has advocated for access to healthcare as well as immigrant rights. Sandra served as the Fiesta Del Sol (FDS) Chairperson 2018-2020. FDS is an annual fundraising event organized by Pilsen Neighbors Community Council, a non-profit organization located in the heart of Pilsen in Chicago, IL. Sandra grew up in Bridgeport and McKinley Park and attended Evergreen Academy and Kelly High School. A proud daughter of a Mexican immigrant, Sandra was raised in an environment that feared deportation, lacked insurance and a lack of bilingual, culturally competent medical care. Nevertheless, Sandra earned her Bachelor’s in Psychology from National Louis University. 
 
-Thank you for your consideration
-Sandra Ramirez
-
 ## Salvador G. Santillan
-
-I would like to Nominate myself Salvador G. Santillan a resident of McKinley Park since 1995. I moved to McKinley Park, when I was in High school and remained in the Neighborhood ever since. I reside near 35th and Archer. I am Alumni of Chicago Public Schools system, which I graduated from Curie High School in 1999. I attended Columbia College, while working a Full Time job at the Chicago Transit Authority in 1999. As my major in school was in music to become a music educator or work in the music industry, as I am an Opera Singer. I chose the working route and put my education on hold.
+A resident of McKinley Park since 1995, I moved to McKinley Park, when I was in High school and remained in the Neighborhood ever since. I reside near 35th and Archer. I am Alumni of Chicago Public Schools system, which I graduated from Curie High School in 1999. I attended Columbia College, while working a Full Time job at the Chicago Transit Authority in 1999. As my major in school was in music to become a music educator or work in the music industry, as I am an Opera Singer. I chose the working route and put my education on hold.
 
 Continued to work at the CTA for 15 years, working my way up in the ranks and working various positions in the company. Finished working a management role in the Purchasing/Warehousing Department. While I was at CTA I was a member of COMTO ( Conference Of Minority Officials) which I also worked with CTA’s Government Relations department which we gave back to inner city program all across the city.
 
 I left the Chicago Transit Authority in 2013 to finish my education, since I noticed a lot of other positions I was interested in required a Bachelors degree. So I then took other positions, while putting myself back to school. I held the following positions, Inventory/Purchasing Manager at Gold Standard Baking, Remprex LLC, Motorola, Justin Blair and Company and my last position Pre COVID was Operations Manager for LAZ Parking which I was in charge of Parking Meters in the City of Chicago. 
 
-Currently, I work for Brighton Park Neighborhood Council at Shields Elementary working with after School programs. I am also in Graduate School to get my MBA. I have always wanted to give back to the community, when I saw this post it gave me goosebumps. My graduate School is online and I work remotely as well. 
-
-Thank you in advance for your time, as I will await a reply from the council. Have a great day!
-
-Salvador G. Santillan 
+Currently, I work for Brighton Park Neighborhood Council at Shields Elementary working with after School programs. I am also in Graduate School to get my MBA. I have always wanted to give back to the community, when I saw this post it gave me goosebumps. My graduate school is online and I work remotely as well. 
 
 ## Anthony Wojtal
 
-Greetings McKinley Park neighbors, MPDC members, and to the Board,
-
-My name is Anthony Wojtal, a Chicago native and a McKinley Park resident for the past two-and-a-half years. I am a recent graduate of DePaul University’s MBA program and for the past 7 years have worked for Chicago Public Schools’ Office of Budget & Grants Management where I am currently a Budget Manager. I am writing to you today to offer my candidacy for the board of directors of the McKinley Park Development Council.
+A Chicago native and a McKinley Park resident for the past two-and-a-half years, I am a recent graduate of DePaul University’s MBA program and for the past 7 years have worked for Chicago Public Schools’ Office of Budget & Grants Management where I am currently a Budget Manager.
 
 If the past 9 months have taught us anything, it is that our communities are in dire need of resources and support. Even in times of stability, many families may find themselves one paycheck away from not getting by - a reality made worse by the COVID-19 pandemic and the resulting economic downturn. This is a moment where we must turn our attention and extend solidarity to the struggle of working families, and harness the collective power of the community to direct resources to those who are in need. A community that sustainably ensures basic needs and rights are met and protected will generate more economic activity, improve general well-being, and be better suited to weather any national economic impacts. To this end, I believe there are several critical areas where we must develop policies that aim to protect and expand the rights of working families: Housing, Healthcare, Food Security, and Education. 
 
@@ -114,45 +74,11 @@ Food Security: No person who calls McKinley Park or Chicago “home”, should g
 
 Education: Educational outcomes can differ greatly depending on your zip code. Expanding equity in education can be enhanced through the expansion of housing rights, and through economic development within the community. All children deserve access to a high performing neighborhood public school and we must fight to ensure equitable funding is provided to schools in order to provide nutritious meals, diverse curriculum offerings, universal childcare, and counseling and nursing services.
 
-I appreciate your consideration of my candidacy for the MPDC board of directors. I urge you to vote for me if you believe that the key to our community’s success lies within the community itself and if you believe in a bold vision to protect and expand basic rights to ensure the future sustainability and success of our community and our city. Thank you.
-
-Sincerely,
-Anthony Wojtal
-
-# Current Board Members Seeking Re-election
-
 ## John Belcik
 
 Born and raised in McKinley Park. Being a fifth generation resident, McKinley Park is deeply ingrained in me and my family and will always call it home. I'm always trying to make the neighborhood a better place for old and new residents be it volunteering time to help with the Farmer's Market, teaching the McKinley Park Advisory Council's outdoor ecology class, to working to create the McKinley Park Development Council. 
 
 When I am not in the neighborhood, I work as a biologist in the Planning and Environment Branch of the Chicago District of the US Army Corps of Engineers and am currently getting a PhD in ecology from University of Illinois at Chicago.   
-  
-## Justin Kerr
-
-Hi! I’m Justin Kerr, and I’d welcome the chance to continue serving the neighborhood as a board member of the McKinley Park Development Council. 
-
-I am a founding board member and have been continually active in the council since its first  meeting, before the group even had a name. In the more than three years that I’ve been  volunteering, my role has ranged from foundational work like helping to write the council’s mission  statement and bylaws through ongoing engagement representing the council, helping out with projects and leading as a board member. 
-
-Currently, I am most occupied with serving as chairperson on the council committee managing the  Illinois Connected Communities project, a federally funded, statewide project the council won this  past summer. Council President John Belcik and I applied to the program this spring, rallied support
-from our community institutions and elected officials, and worked with State of Illinois resources  through an intense qualification process to land the first phase of this program, which runs until  next July.  
-
-Now, McKinley Park is one of 12 communities statewide taking part in the first cohort of this  program to enable better broadband Internet and digital literacy. In addition to recruiting our large  and growing steering committee to bring more volunteer resources to this project and well represent our neighborhood, I’ve built, launched and run the interactive McKinleyPark.org website  to provide access to and manage the project for all our Connected Communities participants. At this point in the project, we’ve honed in on two project directions, found project leads and  established other roles, and set our schedule to launch the projects in January. 
-
-I’ve also worked very hard to grow the McKinley Park Development Council toward a full-fledged,  formally organized group that has the capacity to enable very consequential things for our  neighborhood. I conceived, authored, revised and led the formal adoption of the council’s  “committees” structure and process, which remains the sole method the council uses to manage  our operations and programs by establishing roles, responsibilities, oversight, scope, deliverables  and more. 
-
-I also led the push this summer for the council to formally decide to expand our capacity and  activities, to allow us to have opportunities to go after bigger projects and expand our reach and  role within the neighborhood. This was actually required for us to successfully land Connected  Communities: Late in the application process, we discovered the council had to commit toward  more business-like and formal operations in order to participate. In addition, we were presented  with another major funding opportunity that also required capacity growth and operational  maturity. This summer, as a board, we conclusively voted to grow our capacity and capabilities to  allow us to participate in Connected Communities, pursue other funding and program  opportunities, formalize operations, and open up toward more growth and engagement. 
-
-This vote enables opportunities to better engage our constituency and the wonderful human  capital that continually comes to the McKinley Park Development Council with ideas and labor, but that we as a board have squandered. We have failed to leverage all the potential, ready-to-go,  expert, engaged community members who come to us ready to help, and we haven’t followed through on several promising projects in which we engaged volunteers and their wonderful work,  but then abandoned the projects when we hit a speed bump. 
-
-Becoming a better-organized community group – and opening up our activities, roles and  responsibilities more widely with neighborhood volunteers – is something I have been advocating  for years as a board member. We need to define some level of membership engagement so we  can organize our constituency and volunteers better, even to simply let neighbors know whether  and how they’re engaged with the council or not. We need to support productive and fulfilling  ways for volunteers to work with the council, and we can and should provide tools and a platform  to let members lead and manage their own involvement. With some basic steps that are extremely common for community groups, the council could become an amazingly effective vehicle to  enable positive change that the community wishes to collectively work toward. 
-
-In addition to my volunteer work with the McKinley Park Development Council, I have been deeply involved in the community by publishing the McKinley Park News at https://mckinleypark.news,  reporting on our neighborhood’s news and events in one form or another since 2012. I’ve been a  homeowner in the McKinley Park neighborhood since 2008 and a resident of the Southwest Side  since the mid-1990s. 
-
-Our family has loved McKinley Park: its fantastic present and wonderful potential future. I’d  welcome the chance to continue serving the neighborhood as a volunteer board member of the  McKinley Park Development Council and ask for your vote of support. 
-
-Thank you for your attention and consideration. I’m happy to answer any questions, receive  feedback and get your ideas for what the council can do for the neighborhood: Send email to  justinkerr@mckinleypark.news or call (312) 560-1115. 
-
-# Current Board Members
 
 ## Dan Covarrubias
 
@@ -184,13 +110,8 @@ I recently signed up to be an Ambassador for the MP Dog Park!
 ## Mary Carmen Moreno 
 Resident of McKinley Park since 2005, and lifelong Chicagoan. I’m a mother to a creative and soulful 10 yr. old, a Chicago Public School teacher on the Southside of Chicago, and co-owner of Cafe Jumping Bean in Chicago’s Pilsen neighborhood.  My family and I enjoy a good ballgame, support local businesses and community organizations.  We are avid gardeners, and enjoy visiting National Parks every year.  
 
-
 ## Tony Adams
 
 This year I've been busy as part of the leadership team of the McKinley Park Community Garden as we've relocated to the new site in McKinley Park. I am also one of MPDC founders - involved since before it existed as a named group. I'm a particpant in the McKinley Park Stewardship days (not just because of the doughnuts) , Ward cleanup events and a customer of the Farmer's Market. I consider it a huge blessing to be able to live here. 
 
 I've been a professional software developer for nearly 20 years, currently at the awesome [Ascension Technologies](https://ascension.org/Our-Work/Ascension-Technologies). I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools.
-
-
-
-

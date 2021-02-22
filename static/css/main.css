@@ -941,3 +941,10 @@ a.pure-menu-link:hover { text-decoration: none; }
 .secondary-callout h3 { margin-bottom: 25px; }
 
 .secondary-callout img { float: left; }
+
+/** make the ugly google calendar responsive? */
+.responsiveCal { position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+
+.responsiveCal iframe { position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
