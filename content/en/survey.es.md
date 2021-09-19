@@ -1,13 +1,21 @@
 ---
-title: Cuestionario
-slug: survey
+title: Encuestas
+slug: surveys
 top_graphic: 4
 menu:
   main:
     weight: 88
     parent: about
 ---
+# Resultados de encuestas anteriores (En Inglés)
 
+[35th Street](https://drive.google.com/file/d/1GFedL2f1RP8fektgDz9v__E6pBMZ4bc3/view)
+
+[Transit Oriented Development Survey](https://drive.google.com/file/d/1GFedL2f1RP8fektgDz9v__E6pBMZ4bc3/view) (En Inglés)
+
+# Encuestas actuales
+
+## [Encuesta de actualizaciones de proyectos comunitarios](https://forms.gle/pDwNhAL9fV5jjVZu6)
 #  Encuesta de banda ancha
 
 McKinley Park Connected Communities es una iniciativa de banda ancha impulsada por la comunidad para McKinley Park.
@@ -18,4 +26,4 @@ Su participación en esta encuesta nos ayudará a identificar las áreas desaten
 
 ¡Gracias por ayudarnos a ayudarte!
 
-<a href="https://forms.gle/uLopSw5qdY7s5QcP7">Llenar el cuestionario (Español)</a>
+<a href="https://forms.gle/uLopSw5qdY7s5QcP7">Llena el cuestionario (Español)</a>

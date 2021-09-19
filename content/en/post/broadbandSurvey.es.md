@@ -20,7 +20,7 @@ Su participación en esta encuesta nos ayudará a identificar las áreas desaten
 
 ¡Gracias por ayudarnos a ayudarte!
 
-<a href="https://forms.gle/uLopSw5qdY7s5QcP7">Llenar el cuestionario (Español)</a>
+<a href="https://forms.gle/uLopSw5qdY7s5QcP7">Llena el cuestionario (Español)</a>
 
 
 

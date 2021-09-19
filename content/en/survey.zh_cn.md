@@ -1,12 +1,24 @@
 ---
-title: 宽带调查
-slug: survey
+title: 调查
+slug: surveys
 top_graphic: 4
 menu:
   main:
     weight: 88
     parent: about
 ---
+[//]: <> (Previous Survey Results (English).)
+# 以前的调查结果（英语）
+
+[35街發展规划 (Development)](https://drive.google.com/file/d/1MTVxqv29nDKRxXCUrU6rsl44n5jq67La/view)
+
+
+[Transit Oriented Development Survey](https://drive.google.com/file/d/1GFedL2f1RP8fektgDz9v__E6pBMZ4bc3/view)
+
+[//]: <> (Current Surveys (english) .)
+# 当前调查  （英语）
+
+## [Community Project Updates Survey](https://forms.gle/xnPYmy17WhK8e2GR6)
 
 # 麦金莱公园互联社区是麦金莱公园的社区驱动宽带计划。
 
