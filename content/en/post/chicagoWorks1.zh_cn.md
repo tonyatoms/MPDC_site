@@ -15,7 +15,7 @@ Chicago Works Community Challenge 是一项耗资 1000 万美元的社区投资�
 
 [中文调查](https://www.surveymonkey.com/r/XZBM5XD?lang=zh-tw)
 
-[Encuesta en chino](https://www.surveymonkey.com/r/XZBM5XD?lang=es)
+[Encuesta en español](https://www.surveymonkey.com/r/XZBM5XD?lang=es)
 
 [英文调查](https://www.surveymonkey.com/r/XZBM5XD)
 

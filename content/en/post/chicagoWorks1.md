@@ -15,9 +15,9 @@ The Chicago Works Community Challenge is a $10M community investment initiative 
 
 [中文调查 ](https://www.surveymonkey.com/r/XZBM5XD?lang=zh-tw)
 
-[Encuesta en chino ](https://www.surveymonkey.com/r/XZBM5XD?lang=es)
+[Encuesta en español ](https://www.surveymonkey.com/r/XZBM5XD?lang=es)
 
-[Survey in English ](https://www.surveymonkey.com/r/XZBM5XD)
+[Survey in english ](https://www.surveymonkey.com/r/XZBM5XD)
 
 See the City's website for [more information about the Chicago Works Community Challenge](https://www.chicago.gov/city/en/sites/chicago-works-community-challenge/home.html)
 

@@ -15,7 +15,7 @@ El Chicago Works Community Challenge es una iniciativa de inversión comunitaria
 
 [中文 调查] (https://www.surveymonkey.com/r/XZBM5XD?lang=zh-tw)
 
-[Encuesta en chino] (https://www.surveymonkey.com/r/XZBM5XD?lang=es)
+[Encuesta en español] (https://www.surveymonkey.com/r/XZBM5XD?lang=es)
 
 [Encuesta en inglés] (https://www.surveymonkey.com/r/XZBM5XD)
 
