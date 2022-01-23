@@ -3,7 +3,39 @@ title: MPDC Board of Directors
 slug: board
 top_graphic: 1
 ---
- 
+
+## Zachary J. McDowell
+
+Although I did not grow up in Chicago, McKinley Park has become my home. In 2019 I
+purchased a home here because I fell in love with this neighborhood – the character, the
+people, the accessibility, and the promise I saw of its continued development.
+I am an Assistant Professor of Communication at the University of Illinois at Chicago, and I work
+specifically on access and equity in education and information spaces. Before academia I
+worked in Architecture and Construction management as a Marketing and Business
+Development Manager. I have extensive experience in grant writing, proposal responses, as
+well as construction and architecture management.
+
+My focus on access and equity matches my feelings for the neighborhood as well. The
+developments I’ve seen MPDC achieve have been excellent thus far and gives hope to
+developing this neighborhood in the right directions. Balancing development with doing what
+can be done to ensure the neighborhood remains accessible, safe, and affordable remains
+imperative.
+
+Over the pandemic my life shifted to working from home full-time, and (much like many people
+now) even in the future I will continue to work mostly from home. Many of us spend most of
+our time in the neighborhood, and it underscores the importance of developing the
+neighborhood to serve its residents in the best ways possible, seeking out opportunities to
+improve the shared spaces, creating community events and spaces, and attracting business.
+
+## Chad Nilsson
+
+I have been living in the great city of Chicago for over ten years and have never lived in a neighborhood quite like McKinley Park. As a three-year resident now, I am happy to say that I have completely fallen in love with the neighborhood. Growing up in rural Michigan, the sixty-nine-acre park and its diverse animal inhabitants have brought so much joy, the type of joy I thought was only possible to find in the country, to my heart. McKinley Park has truly cemented my love for public natural spaces and proves you can enjoy nature while being in a global city. 
+
+The beautiful park was what brought me to this great neighborhood but the people and local businesses are why I stay. Our community and neighbors are so kind, determined, and helpful. This neighborhood has an amazing future ahead of it, but only if the community needs are met. That’s why championing our neighbor’s interest and betterment is a direct goal of mine.
+
+I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.
+
+
 ## Kate Eakin
 I'm interested in being a part of the McKinley Park Development Council because I am both encouraged and concerned by various interests moving into our neighborhood.  
 
@@ -49,16 +81,7 @@ I am a resident of Mckinley Park and meet the requirements. I grew up in McKinle
 
 Short Bio:
 Sandra Ramirez- Director of Development, Alivio Medical Center
-Ms. Ramirez is responsible for developing and executing strategies to meet Alivio Medical Centers’ objectives for grants, fundraising and communication.  In 2016, Sandra came to Alivio with over 18 years of managerial experience and demonstrated her skillset by taking the lead on complex projects in collaboration with the Executive Team. Sandra has effectively secured and maintained a government grants portfolio of $4.7 Million in the current fiscal year alone as well as $910,000 in private funding. Sandra has demonstrated leadership and true passion for Alivio’s mission. Ms. Ramirez has been engaged with community partners and organizations that serve Alivio’s service area and her beloved Southwest side neighborhoods. She has advocated for access to healthcare as well as immigrant rights. Sandra served as the Fiesta Del Sol (FDS) Chairperson 2018-2020. FDS is an annual fundraising event organized by Pilsen Neighbors Community Council, a non-profit organization located in the heart of Pilsen in Chicago, IL. Sandra grew up in Bridgeport and McKinley Park and attended Evergreen Academy and Kelly High School. A proud daughter of a Mexican immigrant, Sandra was raised in an environment that feared deportation, lacked insurance and a lack of bilingual, culturally competent medical care. Nevertheless, Sandra earned her Bachelor’s in Psychology from National Louis University. 
-
-## Salvador G. Santillan
-A resident of McKinley Park since 1995, I moved to McKinley Park, when I was in High school and remained in the Neighborhood ever since. I reside near 35th and Archer. I am Alumni of Chicago Public Schools system, which I graduated from Curie High School in 1999. I attended Columbia College, while working a Full Time job at the Chicago Transit Authority in 1999. As my major in school was in music to become a music educator or work in the music industry, as I am an Opera Singer. I chose the working route and put my education on hold.
-
-Continued to work at the CTA for 15 years, working my way up in the ranks and working various positions in the company. Finished working a management role in the Purchasing/Warehousing Department. While I was at CTA I was a member of COMTO ( Conference Of Minority Officials) which I also worked with CTA’s Government Relations department which we gave back to inner city program all across the city.
-
-I left the Chicago Transit Authority in 2013 to finish my education, since I noticed a lot of other positions I was interested in required a Bachelors degree. So I then took other positions, while putting myself back to school. I held the following positions, Inventory/Purchasing Manager at Gold Standard Baking, Remprex LLC, Motorola, Justin Blair and Company and my last position Pre COVID was Operations Manager for LAZ Parking which I was in charge of Parking Meters in the City of Chicago. 
-
-Currently, I work for Brighton Park Neighborhood Council at Shields Elementary working with after School programs. I am also in Graduate School to get my MBA. I have always wanted to give back to the community, when I saw this post it gave me goosebumps. My graduate school is online and I work remotely as well. 
+Ms. Ramirez is responsible for developing and executing strategies to meet Alivio Medical Centers’ objectives for grants, fundraising and communication.  In 2016, Sandra came to Alivio with over 18 years of managerial experience and demonstrated her skillset by taking the lead on complex projects in collaboration with the Executive Team. Sandra has effectively secured and maintained a government grants portfolio of $4.7 Million in the current fiscal year alone as well as $910,000 in private funding. Sandra has demonstrated leadership and true passion for Alivio’s mission. Ms. Ramirez has been engaged with community partners and organizations that serve Alivio’s service area and her beloved Southwest side neighborhoods. She has advocated for access to healthcare as well as immigrant rights. Sandra served as the Fiesta Del Sol (FDS) Chairperson 2018-2020. FDS is an annual fundraising event organized by Pilsen Neighbors Community Council, a non-profit organization located in the heart of Pilsen in Chicago, IL. Sandra grew up in Bridgeport and McKinley Park and attended Evergreen Academy and Kelly High School. A proud daughter of a Mexican immigrant, Sandra was raised in an environment that feared deportation, lacked insurance and a lack of bilingual, culturally competent medical care. Nevertheless, Sandra earned her Bachelor’s in Psychology from National Louis University. \
 
 ## Anthony Wojtal
 
@@ -80,36 +103,15 @@ Born and raised in McKinley Park. Being a fifth generation resident, McKinley Pa
 
 When I am not in the neighborhood, I work as a biologist in the Planning and Environment Branch of the Chicago District of the US Army Corps of Engineers and am currently getting a PhD in ecology from University of Illinois at Chicago.   
 
-## Dan Covarrubias
-
-Dan is a licensed Managing Broker in the State of Illinois and he has worked as a realtor in the Chicagoland area since 1994. Currently he is sponsored by Amerimax Real Estate Partners, Chicago, Illinois.
-
-Dan has worked for numerous local and national real estate firms. He was founding partner of First Capital Realtors which operated from 1999 through 2003, and he was a partner at ReMax First Choice managing 56 agents from 1996 through 1998. During 1996 through 2003, Dan recruited, trained and coached realtors and staff. He also personally managed the rehabilitation and renovation of numerous properties to help revitalize communities, and
-he has managed up to 40 units for a private investor which included multiple two and four unit buildings in Chicago. For the past 20 years, Dan has negotiated and closed hundreds of commercial and
-residential real estate and mortgage sales, earning him a reputation for integrity, trust and passion to help others – the primary reasons why his repeat clients and clients who
-strongly support him through referrals. Dan Covarrubias has experience in selling almost every property type since his entrance into the real estate field in 1994. Dan Covarrubias is experienced in negotiated transactions, accelerated sales programs
-including sealed bid offerings as well as public auction sales.
-
 ## Faye "Nikita" Wu
 
 My name is Faye Wu but many people know me as "Nikita". I am an active member of the school my son attends, Galileo, located in the 25th Ward where I help organize the annual fundraiser: Reach for the Stars. I have been an active member of the Chinese community for many years having been the MC of many ceremonies and galas and having worked at a prominent insurance agency. Today, I own my own business, the Faye Wu Agency of American Family Insurance located in the heart of Chinatown.
 
 But it is McKinley Park that I have called home since 2002 and where, together with my husband and two sons, we have decided to grow even deeper roots by building an addition to our home to better accommodate our future needs and it is here that I would welcome the opportunity to serve the needs of the residents and build a better McKinley Park.
 
-## Jim Hankes
-Born and raised in McKinley Park, moved out in the mid ‘80s, moved back in 2014. My parents still live in McKinley Park and have since they moved here from Bridgeport in the 1950’s.
-I’m currently a realtor with @properties with a specific focus on the McKinley Park neighborhood. It was great to see an article on Trulia.com recently that showed McKinley Park having the lowest neighborhood crime rate in Cook County. I have access to statistics and information about our neighborhood that others may not be aware of.
-Along with my wife, Vickie, we conceptualized, planned, self-funded, built and operated a meal assembly kitchen in Wheaton, IL. We had a staff of 22 part-time employees.
-Prior to starting the food business, I was Western Sales Manager in the trade publishing industry for 9 years, handling a 17-state territory from IL to CA.
-I recently signed up to be an Ambassador for the MP Dog Park!
-
 ## Liz Gres
  I've got board and non-profit experience. I've done it all from grant-writing to strategic planning to meeting facilitation, etc. etc. More importantly, I'm a native southwest-sider, the kid of immigrants and now raising a couple kids of my own in the neighborhood. I can't say enough about how much I love the community in McKinley Park and the active work so many people are doing to foster and invite that. I think it's a pretty special thing though it can be pretty fragile when you're talking about a community that isn't as resourced or listened to as other neighborhoods given our racial and economic make-up as well as small size - especially as we begin to get mentioned as the next "hot" area. I think the MPDC can serve as an organization that really helps to hold up the voice and priorities of all of the neighborhood not just of those whose voice is loudest or who have the most access, time, resources, etc. There are certainly challenges in order to effectively do that as an organization but I think the MPDC can serve in that role and I would love to contribute to making that happen.
  
-
-## Mary Carmen Moreno 
-Resident of McKinley Park since 2005, and lifelong Chicagoan. I’m a mother to a creative and soulful 10 yr. old, a Chicago Public School teacher on the Southside of Chicago, and co-owner of Cafe Jumping Bean in Chicago’s Pilsen neighborhood.  My family and I enjoy a good ballgame, support local businesses and community organizations.  We are avid gardeners, and enjoy visiting National Parks every year.  
-
 ## Tony Adams
 
 This year I've been busy as part of the leadership team of the McKinley Park Community Garden as we've relocated to the new site in McKinley Park. I am also one of MPDC founders - involved since before it existed as a named group. I'm a particpant in the McKinley Park Stewardship days (not just because of the doughnuts) , Ward cleanup events and a customer of the Farmer's Market. I consider it a huge blessing to be able to live here. 
