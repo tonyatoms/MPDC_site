@@ -35,6 +35,12 @@ The beautiful park was what brought me to this great neighborhood but the people
 
 I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.
 
+## Joshua Woodard
+
+Originally from the Alabama Gulf Coast, I also lived in Tuscaloosa, AL, St. Louis, MO and have lived in Chicago since 2017. In the spring of 2018, I and my partner, Beth Blafka, purchased a 3 flat on S Damen where we have been residents and landlords. Since that time we have come to enjoy many of the great features McKinley Park has to offer from daily walks in the park, to the farmers market, getting to know neighbors, to enjoying one of the best sandwiches in Chicago, the Papa Dagwood Club at Archview diner. I enjoy hiking, biking, listening to vinyls, communing with friends and patiently awaiting the Bears to get their act together.
+
+I have worked in various industries including shipping, service, real estate and academia. I currently work as a data analyst for an IT firm in Schaumburg. At St Louis university I pursued a PhD in American studies where I researched, among other topics, the evolution of the American city throughout the mid 20th century. What I learned through this research compelled me to join the McKinley Park Council because it’s only through community involvement that any neighborhood can thrive. 
+
 
 ## Kate Eakin
 I'm interested in being a part of the McKinley Park Development Council because I am both encouraged and concerned by various interests moving into our neighborhood.  
