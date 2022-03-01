@@ -81,14 +81,6 @@ Incubators for neighborhood entrepreurs
  
 Having experienced rampant gentrification in Lakeview and Bucktown, I feel if we don’t get ahead of the curve in McKinley Park, none of us will be living here 20 years from now.
 
-## Sandra Ramirez
-
-I am a resident of Mckinley Park and meet the requirements. I grew up in McKinley Park in the 90's and 2000's and recently returned to reside in the neighborhood in 2018. My immediate family also lives in the area, making it a very important and personal community to me. I have skills and experience that I would proudly share with this organization. I believe McKinley Park is a wonderful community with amazing potential and I am committed to helping MPDC continue its mission. 
-
-Short Bio:
-Sandra Ramirez- Director of Development, Alivio Medical Center
-Ms. Ramirez is responsible for developing and executing strategies to meet Alivio Medical Centers’ objectives for grants, fundraising and communication.  In 2016, Sandra came to Alivio with over 18 years of managerial experience and demonstrated her skillset by taking the lead on complex projects in collaboration with the Executive Team. Sandra has effectively secured and maintained a government grants portfolio of $4.7 Million in the current fiscal year alone as well as $910,000 in private funding. Sandra has demonstrated leadership and true passion for Alivio’s mission. Ms. Ramirez has been engaged with community partners and organizations that serve Alivio’s service area and her beloved Southwest side neighborhoods. She has advocated for access to healthcare as well as immigrant rights. Sandra served as the Fiesta Del Sol (FDS) Chairperson 2018-2020. FDS is an annual fundraising event organized by Pilsen Neighbors Community Council, a non-profit organization located in the heart of Pilsen in Chicago, IL. Sandra grew up in Bridgeport and McKinley Park and attended Evergreen Academy and Kelly High School. A proud daughter of a Mexican immigrant, Sandra was raised in an environment that feared deportation, lacked insurance and a lack of bilingual, culturally competent medical care. Nevertheless, Sandra earned her Bachelor’s in Psychology from National Louis University. \
-
 ## Anthony Wojtal
 
 A Chicago native and a McKinley Park resident for the past two-and-a-half years, I am a recent graduate of DePaul University’s MBA program and for the past 7 years have worked for Chicago Public Schools’ Office of Budget & Grants Management where I am currently a Budget Manager.
@@ -122,4 +114,4 @@ But it is McKinley Park that I have called home since 2002 and where, together w
 
 This year I've been busy as part of the leadership team of the McKinley Park Community Garden as we've relocated to the new site in McKinley Park. I am also one of MPDC founders - involved since before it existed as a named group. I'm a particpant in the McKinley Park Stewardship days (not just because of the doughnuts) , Ward cleanup events and a customer of the Farmer's Market. I consider it a huge blessing to be able to live here. 
 
-I've been a professional software developer for nearly 20 years, currently at the awesome [Ascension Technologies](https://ascension.org/Our-Work/Ascension-Technologies). I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools.
+I've been a professional software developer for nearly 20 years, currently at [Ascension Technologies](https://ascension.org/Our-Work/Ascension-Technologies). I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools.
