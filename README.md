@@ -3,7 +3,7 @@ McKinley Park Development Council
 
 This is the repository for the [McKinley Park Development Council website](https://mckinleyparkdevelopmentcouncil.org/).
 
-This version was initially forked from the Lets Encrypt website's code.
+Long long ago, an ancestor of this version was forked from the Lets Encrypt website's code.
 
 This site is built with [Hugo](https://gohugo.io/). It's entirely static, no server-side code/scripting.
 
