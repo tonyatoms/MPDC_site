@@ -30,7 +30,7 @@ On the 10th, the students will showcase their final work to the community (you!)
 
 This is a great opportunity to guide the neighborhood into a future created by you, our residents.  Please come and be a part of shaping these projects!
 
-If you want to be further involved in the process, we are also looking for volunteers to commit a few hours to working tables around the neighborhood with students who will be asking residents about their hopes and dreams for the neighborhood.  These events will take place at several times and locations between 28 May and 5 June. We especially need bilingual volunteers in all the languages of our neighborhood: Spanish, Mandarin, and Cantonese. Just reply to this message and we can tell you more. 
+If you want to be further involved in the process, we are also looking for volunteers to commit a few hours to working tables around the neighborhood with students who will be asking residents about their hopes and dreams for the neighborhood.  These events will take place at several times and locations between 28 May and 5 June. We especially need bilingual volunteers in all the languages of our neighborhood: Spanish, Mandarin, and Cantonese. <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">Send us an email</a></strong> and we can tell you more. 
 
 Please share this announcement with your friends and neighbors. 
 

@@ -30,7 +30,7 @@ El día 10, los estudiantes mostrarán su trabajo final a la comunidad (¡ustede
 
 Esta es una gran oportunidad para guiar al vecindario hacia un futuro creado por ustedes, nuestros residentes. ¡Venga y sea parte de la configuración de estos proyectos!
 
-Si desea involucrarse más en el proceso, también estamos buscando voluntarios para dedicar algunas horas a trabajar en mesas en el vecindario con estudiantes que preguntarán a los residentes sobre sus esperanzas y sueños para el vecindario. Estos eventos tendrán lugar en varios horarios y lugares entre el 28 de mayo y el 5 de junio. Necesitamos especialmente voluntarios bilingües en todos los idiomas de nuestro vecindario: español, mandarín y cantonés. Simplemente responda a este mensaje y podemos contarle más.
+Si desea involucrarse más en el proceso, también estamos buscando voluntarios para dedicar algunas horas a trabajar en mesas en el vecindario con estudiantes que preguntarán a los residentes sobre sus esperanzas y sueños para el vecindario. Estos eventos tendrán lugar en varios horarios y lugares entre el 28 de mayo y el 5 de junio. Necesitamos especialmente voluntarios bilingües en todos los idiomas de nuestro vecindario: español, mandarín y cantonés. Simplemente <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">Envíenos un correo electrónico</a></strong> y podemos brindarle más información.
 
 Comparta este anuncio con sus amigos y vecinos.
 
