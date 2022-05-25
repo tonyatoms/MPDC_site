@@ -14,7 +14,5 @@ type = "post"
 
  {{< figure src="/images/events/UICFlyer_Mandarin_05.24.pdf" title="" >}}
 
-此传单的 PDF 副本是 [这里](images/events/UICFlyer_Mandarin_05.24.pdf)
-
 
 

@@ -14,7 +14,4 @@ type = "post"
 
  {{< figure src="/images/events/UICFlyer_English_05.24.pdf" title="" >}}
 
- A PDF copy of this flyer is [here](images/events/UICFlyer_English_05.24.pdf)
-
-
 
