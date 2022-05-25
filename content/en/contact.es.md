@@ -14,8 +14,3 @@ menu:
 
 No compartiremos su información de contacto con ningún otro grupo o entidad.
 
-Apartado Postal:
-
-PO Box 891231 
-
-Chicago IL 60608 
