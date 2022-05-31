@@ -12,7 +12,7 @@ type = "post"
 
 +++ 
 
- {{< figure src="/images/events/UICFlyer_Mandarin_05.24.pdf" title="" >}}
+ {{< figure src="/images/events/UICFlyer_Mandarin_05.28.jpg" title="" >}}
 
 
 
