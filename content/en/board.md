@@ -33,14 +33,7 @@ I have been living in the great city of Chicago for over ten years and have neve
 
 The beautiful park was what brought me to this great neighborhood but the people and local businesses are why I stay. Our community and neighbors are so kind, determined, and helpful. This neighborhood has an amazing future ahead of it, but only if the community needs are met. That’s why championing our neighbor’s interest and betterment is a direct goal of mine.
 
-I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.
-
-## Joshua Woodard
-
-Originally from the Alabama Gulf Coast, I also lived in Tuscaloosa, AL, St. Louis, MO and have lived in Chicago since 2017. In the spring of 2018, I and my partner, Beth Blafka, purchased a 3 flat on S Damen where we have been residents and landlords. Since that time we have come to enjoy many of the great features McKinley Park has to offer from daily walks in the park, to the farmers market, getting to know neighbors, to enjoying one of the best sandwiches in Chicago, the Papa Dagwood Club at Archview diner. I enjoy hiking, biking, listening to vinyls, communing with friends and patiently awaiting the Bears to get their act together.
-
-I have worked in various industries including shipping, service, real estate and academia. I currently work as a data analyst for an IT firm in Schaumburg. At St Louis university I pursued a PhD in American studies where I researched, among other topics, the evolution of the American city throughout the mid 20th century. What I learned through this research compelled me to join the McKinley Park Council because it’s only through community involvement that any neighborhood can thrive. 
-
+I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.\
 
 ## Kate Eakin
 I'm interested in being a part of the McKinley Park Development Council because I am both encouraged and concerned by various interests moving into our neighborhood.  
@@ -95,12 +88,6 @@ Food Security: No person who calls McKinley Park or Chicago “home”, should g
 
 Education: Educational outcomes can differ greatly depending on your zip code. Expanding equity in education can be enhanced through the expansion of housing rights, and through economic development within the community. All children deserve access to a high performing neighborhood public school and we must fight to ensure equitable funding is provided to schools in order to provide nutritious meals, diverse curriculum offerings, universal childcare, and counseling and nursing services.
 
-## John Belcik
-
-Born and raised in McKinley Park. Being a fifth generation resident, McKinley Park is deeply ingrained in me and my family and will always call it home. I'm always trying to make the neighborhood a better place for old and new residents be it volunteering time to help with the Farmer's Market, teaching the McKinley Park Advisory Council's outdoor ecology class, to working to create the McKinley Park Development Council. 
-
-When I am not in the neighborhood, I work as a biologist in the Planning and Environment Branch of the Chicago District of the US Army Corps of Engineers and am currently getting a PhD in ecology from University of Illinois at Chicago.   
-
 ## Faye "Nikita" Wu
 
 My name is Faye Wu but many people know me as "Nikita". I am an active member of the school my son attends, Galileo, located in the 25th Ward where I help organize the annual fundraiser: Reach for the Stars. I have been an active member of the Chinese community for many years having been the MC of many ceremonies and galas and having worked at a prominent insurance agency. Today, I own my own business, the Faye Wu Agency of American Family Insurance located in the heart of Chinatown.
@@ -114,4 +101,4 @@ But it is McKinley Park that I have called home since 2002 and where, together w
 
 This year I've been busy as part of the leadership team of the McKinley Park Community Garden as we've relocated to the new site in McKinley Park. I am also one of MPDC founders - involved since before it existed as a named group. I'm a particpant in the McKinley Park Stewardship days (not just because of the doughnuts) , Ward cleanup events and a customer of the Farmer's Market. I consider it a huge blessing to be able to live here. 
 
-I've been a professional software developer for nearly 20 years, currently at [Ascension Technologies](https://ascension.org/Our-Work/Ascension-Technologies). I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools.
+I've been a professional software developer for nearly 20 years, currently at [Future](https://www.future.green) making the fight against climate change personal. I have been contributing those talents to the MPDC by designing, maintaining and hosting this web site using 100% free and open source tools and hosting.
