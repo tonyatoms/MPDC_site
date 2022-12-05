@@ -4,6 +4,21 @@ slug: board
 top_graphic: 1
 ---
 
+## Eric Carlson
+
+Eric joined the MPDC board in November, 2022. He is especially interested in ensuring that more public spaces in the community are sustainably designed and utilized for neighbors to gather, learn and play together. 
+
+Eric has worked in education for two decades, including six wonderful years as a social science teacher at nearby Thomas Kelly College Prep High School. He also spent several years teaching in Honduras, China and Portugal. Outside of teaching, Eric has been busy helping his wife, Alejandra, to open a bakery in the neighborhood. He loves live music, running, and exploring Chicago's many parks with his daughter.
+
+## Mike Naughton
+
+Mike joined the MPDC board in 2022, after having been active in the Council’s eTOD committee and the Council in general for several years. In fact, Mike had been attending MPDC events even before moving to the neighborhood in 2018. 
+
+Mike is passionate about sustainable development and redevelopment, making public spaces work for the people that use them, and ensuring everyone in the community has access to quality services and amenities. 
+
+During his time on the Council, Mike hopes to work towards improved sanitation amenities at the namesake park and throughout important corridors in the neighborhood, and to be a voice for mutually beneficial neighborhood redevelopment. 
+Outside of MPDC, Mike is a software engineer, a foster parent with his wife, and enjoyer of many outdoor activities.
+
 ## Zachary J. McDowell
 
 Although I did not grow up in Chicago, McKinley Park has become my home. In 2019 I
@@ -36,25 +51,13 @@ The beautiful park was what brought me to this great neighborhood but the people
 I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.\
 
 ## Kate Eakin
-I'm interested in being a part of the McKinley Park Development Council because I am both encouraged and concerned by various interests moving into our neighborhood.  
+Kate has been a member of MPDC’s board since 2020 and was elected its president in 2022. During her tenure, she has shepherded MPDC’s partnership with UIC College of Urban Planning and Policy (CUPPA) to find pathways for affordable housing, re-envision our “Main Street” on 35th Street, and reactivate the Central Manufacturing District in a socially inclusive and environmentally responsible way.  She also facilitated a cohort of community groups in the Chicago Works Community Challenge with a plan to expand amenities around McKinley Park and the Community Garden. 
 
-My professional background includes 20+ years in education and performing arts, including time as a CPS teaching artist and as faculty at Columbia College Chicago. You may have seen me onstage with the Chicago Civic Orchestra or the Air Force Band, among others.  On Active Duty in the Air Force, I worked in public relations across three continents.  I also taught communication and conflict resolution skills to both new recruits and seasoned leaders.  
-
-More recently, I went back to school for my MBA, which I completed at UIC earlier this year.  I now work in Accenture Consulting's Public Service division, where I help organizations plan and execute change.  In functional terms, I help groups get to the root of the problem, determine a course forward, and then build training programs to grow skills and improve communications.  I am also still serving in the Air Force Reserve as a paralegal.
-
-As for my experience in the neighborhood, I moved back to the South Side in 2018 after leaving Active Duty overseas.  In February of 2019, I bought my McKinley Park fixer upper - a 2 flat near Honore and Pershing.  
-
-The most striking thing I encountered in my home buying was experience was seeing just how fast Pilsen had gentrified while I was away.  I was dismayed to see so many long time residents selling because the neighborhood no longer felt like home.  Certainly, I could no longer afford to live in the same area where I had my first apartment, years ago. I don't want to see the same thing happen in McKinley Park.
-
-Likewise, I don't want to see our safety threatened by development that would increase pollution and other environmental hazards.  The fight against MAT asphalt has shown that we can organize to push back against such forces, and recent developments in that fight are encouraging. 
-
-All that said, it is entirely possible to have curated development that supports existing residents and builds on our neighborhood's strengths.  We can move forward on affordable housing.  We can work with businesses to bring opportunities for work and play commensurate with the skills and desires of our residents, without sacrificing the character and affordability of the neighborhood.  
-
-Shaping the future of our neighborhood in this way is something I very much want to be a part of.  
+Outside of MPDC, Kate designs and delivers job training for wide variety of workplaces. A veteran, she also brings her past experience in Public Affairs with the U.S. Air Force, and continues to serve in the Air Force Reserve as a member of the JAG Corps.  Kate’s hobbies include cycling, kayaking, and any excuse to get out in the park. 
 
 ## John Kugler
 
-We have lived at 3701 S. Winchester for 23 years, consequently seeing and being part of many changes in our neighborhood. Husband of Emi Yamamoto, we raised 4 boys together who all attended Greene ES, Evergreen Middle ES and Juarez HS. Starting with Twinkle Star Gymnastics, our family participated in sports at McKinley Park Field House. I say this to validate my involvement in our neighborhood in everyday life needs and services, which also includes my civic service on the Greene ES LSC and Judge of Election in my Precinct. 
+We have lived on Winchester for 23 years, consequently seeing and being part of many changes in our neighborhood. Husband of Emi Yamamoto, we raised 4 boys together who all attended Greene ES, Evergreen Middle ES and Juarez HS. Starting with Twinkle Star Gymnastics, our family participated in sports at McKinley Park Field House. I say this to validate my involvement in our neighborhood in everyday life needs and services, which also includes my civic service on the Greene ES LSC and Judge of Election in my Precinct. 
 
 The reason I would like to be involved with the council is my concern that unchecked development will disenfranchise middleclass families and push out mom and pop businesses.
  
