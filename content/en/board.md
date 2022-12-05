@@ -6,7 +6,7 @@ top_graphic: 1
 
 ## Eric Carlson
 
-Eric joined the MPDC board in November, 2022. He is especially interested in ensuring that more public spaces in the community are sustainably designed and utilized for neighbors to gather, learn and play together. 
+Eric joined the MPDC board in November 2022. He is especially interested in ensuring that more public spaces in the community are sustainably designed and utilized for neighbors to gather, learn and play together. 
 
 Eric has worked in education for two decades, including six wonderful years as a social science teacher at nearby Thomas Kelly College Prep High School. He also spent several years teaching in Honduras, China and Portugal. Outside of teaching, Eric has been busy helping his wife, Alejandra, to open a bakery in the neighborhood. He loves live music, running, and exploring Chicago's many parks with his daughter.
 
@@ -19,28 +19,13 @@ Mike is passionate about sustainable development and redevelopment, making publi
 During his time on the Council, Mike hopes to work towards improved sanitation amenities at the namesake park and throughout important corridors in the neighborhood, and to be a voice for mutually beneficial neighborhood redevelopment. 
 Outside of MPDC, Mike is a software engineer, a foster parent with his wife, and enjoyer of many outdoor activities.
 
-## Zachary J. McDowell
+## Zach McDowell
 
-Although I did not grow up in Chicago, McKinley Park has become my home. In 2019 I
-purchased a home here because I fell in love with this neighborhood – the character, the
-people, the accessibility, and the promise I saw of its continued development.
-I am an Assistant Professor of Communication at the University of Illinois at Chicago, and I work
-specifically on access and equity in education and information spaces. Before academia I
-worked in Architecture and Construction management as a Marketing and Business
-Development Manager. I have extensive experience in grant writing, proposal responses, as
-well as construction and architecture management.
+Although I did not grow up in Chicago, McKinley Park has become my home. I moved here in 2017 and In 2019 I purchased a home here because I fell in love with this neighborhood – the character, the people, the accessibility, and the promise I saw of its continued development. I am an Assistant Professor of Communication at the University of Illinois at Chicago, and I work specifically on access and equity in education and information spaces. Before academia, I spent nearly a decade working in the Architecture, Engineering, and Construction Management industry.
 
-My focus on access and equity matches my feelings for the neighborhood as well. The
-developments I’ve seen MPDC achieve have been excellent thus far and gives hope to
-developing this neighborhood in the right directions. Balancing development with doing what
-can be done to ensure the neighborhood remains accessible, safe, and affordable remains
-imperative.
+My focus on access and equity matches my feelings for the neighborhood as well. Balanced development and renewal to ensure the neighborhood remains accessible, safe, and affordable remains imperative.
 
-Over the pandemic my life shifted to working from home full-time, and (much like many people
-now) even in the future I will continue to work mostly from home. Many of us spend most of
-our time in the neighborhood, and it underscores the importance of developing the
-neighborhood to serve its residents in the best ways possible, seeking out opportunities to
-improve the shared spaces, creating community events and spaces, and attracting business.
+Especially after the pandemic, many of us spend most of our time in the neighborhood, and it underscores the importance of developing the neighborhood to serve its residents in the best ways possible, seeking out opportunities to improve the shared spaces, creating community events and spaces, and attracting business.
 
 ## Chad Nilsson
 
