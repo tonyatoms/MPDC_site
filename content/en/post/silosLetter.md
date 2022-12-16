@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC Urges Gov Pritzker to Halt the Damen Silos Sale"
+title = "MPDC Urges Gov Pritzker to Halt the Damen Silos Sale"
 type = "post"
 
 +++ 

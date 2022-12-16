@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC 与邻居站在一起争取环境正义 (N4EJ)"
+title = "MPDC 与邻居站在一起争取环境正义 (N4EJ)"
 type = "post"
 
 +++

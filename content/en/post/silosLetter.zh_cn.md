@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC 敦促 Gov Pritzker 停止出售 Damen 筒仓"
+title = "MPDC 敦促 Gov Pritzker 停止出售 Damen 筒仓"
 type = "post"
 
 +++

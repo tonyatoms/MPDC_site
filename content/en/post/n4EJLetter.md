@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC Stands with Neighbors for Environmental Justice (N4EJ)"
+title = "MPDC Stands with Neighbors for Environmental Justice (N4EJ)"
 type = "post"
 
 +++ 

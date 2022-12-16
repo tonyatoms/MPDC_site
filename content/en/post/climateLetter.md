@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC Endorses the Carbon Fee And Dividend Resolution"
+title = "MPDC Endorses the Carbon Fee And Dividend Resolution"
 type = "post"
 
 +++ 

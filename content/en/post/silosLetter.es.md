@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC insta al gobernador Pritzker a detener la venta de Damen Silos"
+title = "MPDC insta al gobernador Pritzker a detener la venta de Damen Silos"
 type = "post"
 
 +++

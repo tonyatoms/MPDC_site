@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "MDPC Clarifies its Postion on Affordable Housing"
+title = "MPDC Clarifies its Postion on Affordable Housing"
 type = "post"
 
 +++ 
