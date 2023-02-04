@@ -8,6 +8,17 @@ menu:
     parent: about
 ---
 
+Lea o descargue [McKinley Park Neighborhood Plan](/pdf/plan/McKinley_Park_Plan.pdf).
+
+Lea o descargue [el Resumen ejecutivo del plan del vecindario de McKinley Park: chino simplificado.](/pdf/plan/Plan_execsummary_Chinese.pdf).
+
+Lea o descargue [el Resumen ejecutivo del plan del vecindario de McKinley Park - Español](/pdf/plan/Plan_execsummary_Spanish.pdf).
+
+Lea o descargue [el Resumen ejecutivo del plan del vecindario de McKinley Park - Inglés](/pdf/plan/Plan_execsummary.pdf).
+
+Esta página se actualizó el 4 de febrero de 2023 para incluir esta sección con enlaces al plan y resúmenes ejecutivos en chino simplificado, español e inglés.
+
+
 ## MPDC Gana una [Subvención de asistencia técnica local de CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
 
 ***

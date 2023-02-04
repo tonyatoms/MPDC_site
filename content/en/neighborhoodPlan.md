@@ -8,6 +8,15 @@ menu:
     parent: about
 ---
 
+Read or download [McKinley Park Neighborhood Plan](/pdf/plan/McKinley_Park_Plan.pdf).
+
+Read or download [McKinley Park Neighborhood Plan Executive summary - Simplified Chinese](/pdf/plan/Plan_execsummary_Chinese.pdf).
+
+Read or download [McKinley Park Neighborhood Plan Executive summary - Spanish](/pdf/plan/Plan_execsummary_Spanish.pdf).
+
+Read or download [McKinley Park Neighborhood Plan Executive summary - English](/pdf/plan/Plan_execsummary.pdf).
+
+This page was updated on Feb 4, 2023 to include this section with links to the plan and exective summaries in Simplified Chinese, Spanish and English.
 ***
 ## MPDC Wins a [Local Technical Assistance Grant from CMAP](http://www.cmap.illinois.gov/programs/LTA/mckinley-park)
 
