@@ -11,7 +11,7 @@ title = "Pershing Proposals Meeting Mar 7, 2023"
 type = "post"
 
 +++ 
-Join Chicago's Department of Planning and Develoment (DPD) amd MPDC for a virtual community meeting
+Join Chicago's Department of Planning and Development (DPD) amd MPDC for a virtual community meeting
 6 - 7:30 PM
 
 Tues. March 7, 2023 
