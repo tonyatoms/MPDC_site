@@ -12,9 +12,10 @@ type = "post"
 
 +++ 
 Join Chicago's Department of Planning and Development (DPD) amd MPDC for a virtual community meeting
-6 - 7:30 PM
 
 Tues. March 7, 2023 
+
+6 - 7:30 PM
 
 to learn about the proposals for 1769 W Pershing.
 
