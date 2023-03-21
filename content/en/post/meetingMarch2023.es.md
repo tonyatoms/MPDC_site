@@ -27,7 +27,7 @@ Qué: Reunión pública de marzo del MPDC (virtual)
 
 Cuándo: jueves 23 de marzo de 6:30 a 7:30 p. m.
 
-Dónde: Virtual: si aún no está en nuestra lista de correo, <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">escríbanos</a></strong> y lo agregaremos a la lista y le enviaremos el enlace de Zoom.
+Dónde: Virtual: si aún no está en nuestra lista de correo, <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">escríbanos</a> y lo agregaremos a la lista y le enviaremos el enlace de Zoom.
 
 ¡Hasta entonces!
 

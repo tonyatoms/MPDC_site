@@ -27,7 +27,7 @@ What: MPDC March Public Meeting (Virtual)
 
 When: Thursday, Mar 23 from 6:30-7:30 pm
 
-Where: Virtual - if you are not yet on our mailing list,  <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">drop us a line</a></strong> and we'll add you to the list and send the Zoom link.
+Where: Virtual - if you are not yet on our mailing list,  <a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">drop us a line</a> and we'll add you to the list and send the Zoom link.
 
 See you then!
 

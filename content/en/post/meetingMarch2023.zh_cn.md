@@ -26,7 +26,7 @@ type = "post"
 
 时间：3 月 23 日星期四下午 6:30-7:30
 
-地点：虚拟 - 如果您还不在我们的邮件列表中，<a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">给我们写信</a>< /strong> 我们会将您添加到列表中并发送 Zoom 链接。
+地点：虚拟 - 如果您还不在我们的邮件列表中，<a href="mailto:mckinleyparkdevelopmentcouncil@gmail.com?Subject=Inquiry%20from%20Website" target="_top">给我们写信</a> 我们会将您添加到列表中并发送 Zoom 链接。
 
 回头见！
 
