@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.hugo_build.lock
 js/*.tsv
 Gemfile.lock
 public/
