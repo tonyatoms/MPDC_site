@@ -47,3 +47,7 @@ Wed, Aug 2 @McKinley Park Library  - 11th and 12th Wards joint public meeting on
 [Southwest Side Neighborhood Bike Network](https://chicagocompletestreets.org/portfolio/southwest-side-neighborhood-bike-network/)
 
 [Central Area (Downtown) Planning Survey](https://www.surveymonkey.com/r/CAP2024) and more info about the [Central Area Plan](https://www.chicago.gov/city/en/sites/central-area-plan/home.html)
+
+## UIC Planning Project Update: (July 20, 2023)
+Here is the
+[Final Plan Document from UIC's Summer 2023 McKinley Park / 35th Street Planning Project](https://drive.google.com/file/d/1kghliuru2eHEs0mLzzdYum_uRNVJXUj5/view) (a very large PDF)
