@@ -20,6 +20,8 @@ Given the back to school schedules we usually take August off from public meetin
 **Wed, Aug 2 [@McKinley Park Library](https://www.chipublib.org/locations/50/)** 
 11th and 12th Wards joint public meeting on updating 35th St Zoning to allow more neighborhood businesses. This is the first step in actualizing the recommendations that came out of our joint efforts with UIC Urban Planning. Thanks so much to the 100+ neighbors who came out for those events!
 
+{{< figure src="/images/35thSt/35thStRezoning.jpg" title="" >}}
+
 ## City-sponsored surveys:
 [Southwest Side Neighborhood Bike Network](https://chicagocompletestreets.org/portfolio/southwest-side-neighborhood-bike-network/)
 
