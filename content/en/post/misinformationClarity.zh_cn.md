@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "明确 MPDC 的作用"
+title = "明确MCPD的职责"
 type = "post"
 
 +++ 
