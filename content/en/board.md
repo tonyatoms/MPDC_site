@@ -27,14 +27,6 @@ My focus on access and equity matches my feelings for the neighborhood as well. 
 
 Especially after the pandemic, many of us spend most of our time in the neighborhood, and it underscores the importance of developing the neighborhood to serve its residents in the best ways possible, seeking out opportunities to improve the shared spaces, creating community events and spaces, and attracting business.
 
-## Chad Nilsson
-
-I have been living in the great city of Chicago for over ten years and have never lived in a neighborhood quite like McKinley Park. As a three-year resident now, I am happy to say that I have completely fallen in love with the neighborhood. Growing up in rural Michigan, the sixty-nine-acre park and its diverse animal inhabitants have brought so much joy, the type of joy I thought was only possible to find in the country, to my heart. McKinley Park has truly cemented my love for public natural spaces and proves you can enjoy nature while being in a global city. 
-
-The beautiful park was what brought me to this great neighborhood but the people and local businesses are why I stay. Our community and neighbors are so kind, determined, and helpful. This neighborhood has an amazing future ahead of it, but only if the community needs are met. That’s why championing our neighbor’s interest and betterment is a direct goal of mine.
-
-I am currently a Marketing Associate (Communications Specialist) for the UIC Honors College (go Flames!). I have an Associate Degree in Electronic Media Broadcasting at Delta College and a Bachelor's Degree in Communication at UIC, graduating as Magna cum laude in 2018. While at UIC, I’ve worked as a student worker in the Office of the Chancellor as a Social Media Content Creator. I have also worked at Brown Elephant resale shop for over six years, where my love of vintage, oddities, and reusing blossomed.\
-
 ## Kate Eakin
 Kate has been a member of MPDC’s board since 2020 and was elected its president in 2022. During her tenure, she has shepherded MPDC’s partnership with UIC College of Urban Planning and Policy (CUPPA) to find pathways for affordable housing, re-envision our “Main Street” on 35th Street, and reactivate the Central Manufacturing District in a socially inclusive and environmentally responsible way.  She also facilitated a cohort of community groups in the Chicago Works Community Challenge with a plan to expand amenities around McKinley Park and the Community Garden. 
 
