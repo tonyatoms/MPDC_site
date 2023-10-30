@@ -32,28 +32,6 @@ Kate has been a member of MPDC’s board since 2020 and was elected its presiden
 
 Outside of MPDC, Kate designs and delivers job training for wide variety of workplaces. A veteran, she also brings her past experience in Public Affairs with the U.S. Air Force, and continues to serve in the Air Force Reserve as a member of the JAG Corps.  Kate’s hobbies include cycling, kayaking, and any excuse to get out in the park. 
 
-## John Kugler
-
-We have lived on Winchester for 23 years, consequently seeing and being part of many changes in our neighborhood. Husband of Emi Yamamoto, we raised 4 boys together who all attended Greene ES, Evergreen Middle ES and Juarez HS. Starting with Twinkle Star Gymnastics, our family participated in sports at McKinley Park Field House. I say this to validate my involvement in our neighborhood in everyday life needs and services, which also includes my civic service on the Greene ES LSC and Judge of Election in my Precinct. 
-
-The reason I would like to be involved with the council is my concern that unchecked development will disenfranchise middleclass families and push out mom and pop businesses.
- 
-Some ideas of mine, as a lifelong Chicago resident for responsible and sustainable neighborhood development are:
- 
-Bringing back corner stores and hyper-local businesses inside of our blocks
-Safe traffic patterns before neighborhood expansion begins
-Positive afterschool and employment opportunities for our youth
-Integrated senior friendly activities and services
-Improve immigrant supports and infrastructure
-Supporting and promoting neighborhood schools and churches
-Re-purposing industrial land for:
-Low cost rental space for businesses
-Local produce growing
-Training centers for emerging technologies
-Incubators for neighborhood entrepreurs
- 
-Having experienced rampant gentrification in Lakeview and Bucktown, I feel if we don’t get ahead of the curve in McKinley Park, none of us will be living here 20 years from now.
-
 ## Anthony Wojtal
 
 Anthony is a life long chicagoan who has lived in McKinley Park for five years. A board member since 2020, Anthony served as the Illinois Connected Communities cohort lead and Chicago Connected liaison; uncovering inequities in internet access, affordability, and needs. 
