@@ -16,6 +16,8 @@ MPDC 和其他一些社区团体将参加
 
 ###[后河节：达门筒仓城](https://www.freshwaterlab.org/projects/backward-river-festival-damen-silo-city) 
 
+抱歉，网站只有英语和西班牙语版本
+
  本周六下午 2 点至 6 点，在运河港河步道（靠近达门筒仓）举行。
 
 该节日由伊利诺伊大学淡水实验室（UIC Freshwater Lab）主办，活动内容包括
