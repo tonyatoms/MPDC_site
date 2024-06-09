@@ -22,7 +22,7 @@ Join us on Wednesday, June 12, as we present our [new riverfront plan](https://d
 
 ![plan image](/images/events/SouthBranchConnectivityPlanCoverImage.png)
 
-****Why it’s exciting:**  Neighbors have worked together for an entire year, finding ways to connect parks, expand greenspace, and create new opportunities for transportation and recreation on the riverfront. Now it’s time to show what a connected path could look like, and how we can make it a reality!
+**Why it’s exciting:**  Neighbors have worked together for an entire year, finding ways to connect parks, expand greenspace, and create new opportunities for transportation and recreation on the riverfront. Now it’s time to show what a connected path could look like, and how we can make it a reality!
 
 **What to expect:** We’ll give an overview of the plan and have a conversation about what’s next, including MPDC’s new partnership with the National Park Service. We’ll also have snacks and beverages. School-age kids are welcome. 
 
