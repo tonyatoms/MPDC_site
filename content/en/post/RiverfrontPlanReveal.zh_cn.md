@@ -20,7 +20,7 @@ type = "post"
 
 **时间：** 6月12日（星期三）下午6:30 
 
-![计划图片](/images/events/SouthBranchConnectivityPlanCoverImage.png)
+![](/images/events/SouthBranchConnectivityPlanCoverImage.png)
 
 ****令人兴奋的原因：** 邻居们已经合作了整整一年，想方设法连接公园、扩大绿地，并为河滨的交通和娱乐创造新的机会。现在是时候展示连接道路的模样，以及我们如何将其变为现实！
 
@@ -30,7 +30,6 @@ type = "post"
 
 您在 MPDC 的朋友
 
-通过DeepL.com（免费版）翻译
 
 
 
