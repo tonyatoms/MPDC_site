@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Riverfront Plan"
+title = "The Riverfront plan is here!"
 type = "post"
 
 +++ 
