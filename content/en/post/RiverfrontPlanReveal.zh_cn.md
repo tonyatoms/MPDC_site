@@ -12,7 +12,7 @@ type = "post"
 
 +++ 
 
-6 月 12 日星期三，我们将在麦金利公园图书馆展示我们的[新河岸计划](https://drive.google.com/file/d/16KlWoSpr6mFV42jsHN469gbfLROch0_9/view?usp=sharing)，请加入我们的行列。 600 多名邻居参与了这一由社区推动的计划的筹备活动，我们非常高兴能与您分享这一计划！
+6 月 12 日星期三，我们将在麦金利公园图书馆展示我们的[新河岸计划](https://drive.google.com/file/d/1LTx9BG95LeYM2N171nLW83q03ogllCrY/view?usp=sharing)，请加入我们的行列。 600 多名邻居参与了这一由社区推动的计划的筹备活动，我们非常高兴能与您分享这一计划！
 
 **内容：** 南分馆连通性项目： 框架计划启动！
 

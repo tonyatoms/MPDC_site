@@ -12,7 +12,7 @@ type = "post"
 
 +++ 
 
-Acompáñenos el próximo Miércoles, 12 de Junio, donde presentaremos nuestro [nuevo plan del frente del río](https://drive.google.com/file/d/16KlWoSpr6mFV42jsHN469gbfLROch0_9/view?usp=sharing) en la Biblioteca de McKinley Park. Más de 600 vecinos han participado en los eventos relacionados con este plan de la comunidad, y estamos muy emocionados de compartirlo con Uds!
+Acompáñenos el próximo Miércoles, 12 de Junio, donde presentaremos nuestro [nuevo plan del frente del río](https://drive.google.com/file/d/1LTx9BG95LeYM2N171nLW83q03ogllCrY/view?usp=sharing) en la Biblioteca de McKinley Park. Más de 600 vecinos han participado en los eventos relacionados con este plan de la comunidad, y estamos muy emocionados de compartirlo con Uds!
 
 **¿Qué?** Proyecto de Conectividad del Tramo Sur: Lanzamiento de Plan Estructural! 
 **¿Dónde?** La biblioteca de McKinley Park

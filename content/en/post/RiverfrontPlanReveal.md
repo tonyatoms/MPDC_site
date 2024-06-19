@@ -12,7 +12,7 @@ type = "post"
 
 +++ 
 
-Join us on Wednesday, June 12, as we present our [new riverfront plan](https://drive.google.com/file/d/16KlWoSpr6mFV42jsHN469gbfLROch0_9/view?usp=sharing) at the McKinley Park Library.  Over 600 neighbors were part of the events leading up to this community-driven plan, and we’re so excited to share it with you! 
+Join us on Wednesday, June 12, as we present our [new riverfront plan](https://drive.google.com/file/d/1LTx9BG95LeYM2N171nLW83q03ogllCrY/view?usp=sharing) at the McKinley Park Library.  Over 600 neighbors were part of the events leading up to this community-driven plan, and we’re so excited to share it with you! 
 
 **What:** South Branch Connectivity Project: Framework Plan launch!
 
