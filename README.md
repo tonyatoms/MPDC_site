@@ -1,7 +1,9 @@
 McKinley Park Development Council
 =====================
 
-This is the repository for the [McKinley Park Development Council website](https://mckinleyparkdevelopmentcouncil.org/).
+This was the repository for the [McKinley Park Development Council website](https://mckinleyparkdevelopmentcouncil.org/). Befoe Jun 19, 2024. 
+
+It remains here as an example of static site using Hugo, GitHub and Cloudflare.
 
 This version was initially forked from the Lets Encrypt website's code.
 
